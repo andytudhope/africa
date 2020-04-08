@@ -1,0 +1,92 @@
+  html .md-footer-meta.md-typeset a {
+    color: white!important
+  }
+
+  .book-image, .video-image {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .cover-image {
+    width: 50%;
+    margin: 0 auto;
+  }
+
+  .video-image p {
+    margin-bottom: 40px;
+  }
+
+  .book-link, .video-link {
+    background:#E0B24D;
+    border-radius: 5px;
+    width: 70%;
+    margin: 0 auto;
+  }
+
+  .audio-link {
+    background:#E0B24D;
+    border-radius: 5px;
+    width: 23.5%;
+    float: left;
+    margin: 4px 8px 0 0;
+    height: 30px !important;
+  }
+
+  .audio-link p {
+    margin: 1px;
+    text-align: center;
+  }
+
+  .book-link p {
+    padding: 5px;
+  }
+
+  .video-link p {
+    padding: 5px;
+    height: 35px !important;
+  }
+
+  .book-link a, .purchase-link a, .video-link a, .audio-link a {
+    color: #fff !important;
+    font-weight: bold;
+  }
+
+  .article-image {
+    width: 25%;
+    margin-right: 20px;
+    float: left;
+  }
+
+  .article-para {
+    margin-top: 4%;
+  }
+
+  .cat-img img {
+    height: 180px;
+    margin: 0 0 0 30px;
+  }
+
+  .clear {
+    clear: both;
+  }
+
+@media (max-width: 761px) {
+
+  .md-typeset h1 {
+    font-size: 1.25rem
+  }
+
+  .md-typeset h2 {
+    font-size: 1rem;
+  }
+
+  .cat-img img {
+    height: auto;
+    margin: 0;
+  }
+
+  .audio-link {
+    margin: 4px 4px 0 0;
+    width: 30%;
+  }
+}

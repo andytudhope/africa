@@ -1,0 +1,101 @@
+# Project information
+site_name: A House of Love
+site_description: Nothing could enter it but the sincere act
+site_author: Andy Tudhope
+
+# Specific to set up
+site_url: https://andytudhope.github.io/andytudhope.africa/writing/
+site_dir: public/writing
+logo_nav: https://andytudhope.github.io/andytudhope.africa/
+
+# Repository
+repo_name: andytudhope/africa
+repo_url: https://github.com/andytudhope/africa
+edit_uri: ""
+
+extra_css: [extra.css]
+
+# Configuration
+theme:
+  name: null
+  custom_dir: material
+
+  # 404 page
+  static_templates:
+    - 404.html
+
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  features:
+    - tabs
+    #- instant
+  palette:
+    primary: indigo
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/favicon.png
+  icon:
+    logo: 'logo'
+
+# Plugins
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
+# Customization
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/andytudhope
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/cryptowanderer
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:pymdownx.emoji.twemoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.extra
+
+# Page tree
+nav:
+  - Home: 
+    - 'General': '../'
+  - Essays: 
+    - 'Overview': 'essays/index.md'
+    - 'Living': 'essays/living-essay.md'
+  - Poetry:
+    - 'Overview': 'poetry/index.md'
+  - Short Stories:
+    - 'Overview': 'short-stories/index.md'
+  - Academic Work:
+    - 'Overview': 'academy/index.md'
+
