@@ -4,30 +4,19 @@ description: Overview of Poetry Section
 
 # Poetry
 
-<div markdown="1" class="card poetry sidebar center gemoji center-content">
-
-**Perpetual**
-
-<div markdown="2" class="book-image">
-![Perpetually in truth](./img/lightning.jpg)
-</div>
-
-<div markdown="3" class="book-link">
-[Read It](./)
-</div>
-
-</div>
+> “Whoever has sought Me has found Me. Whoever has found Me has come to know Me. Whoever has known Me has loved Me. Whoever has loved Me I have slain. Whomever I have slain the payment of the blood money is on Me, and I will Myself be the payment for the blood money that I owe.” — Hadith Qudsi
 
 <div markdown="1" class="card poetry sidebar center gemoji center-content">
 
-**Remember To Forget**
+**Maryam**
 
 <div markdown="2" class="book-image">
-![Remembering to Forget](./img/arrival.jpg)
+![Mary in love](./img/mary_oliver.jpg)
 </div>
 
 <div markdown="3" class="book-link">
-[Read It](./remember-forget)
+[Read It](./maryam)
 </div>
 
 </div>
+

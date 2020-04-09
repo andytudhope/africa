@@ -9,13 +9,13 @@ description: An overview of all the essays written by Andy Tudhope
 **Living: The Essay**
 
 <div markdown="2" class="article-image">
-![Living](./img/less_more.jpg)
+![Living](./img/ocean_fire.jpg)
 </div>
 
 <div markdown="3" class="article-para">
-Before reaching spiritual maturity Sufi literature can encourage fantasy or act as a placebo with uncertain outcome. In the material realm more is sought, in the spiritual realm the reverse is true.
+“There is another reality, the genuine one, which we lose sight of. This other reality is always sending us hints which, without art, we can’t receive." — Saul Bellow
 
-The accomplished Master will help the seeker to focus on his goal and the devotee to give up attachment to everything.
+I have read many books in my life, searching for this ‘other reality’ scribbled out by various authors. I sought the secret everywhere and did the most silly things in my attempt to discover a way in. Until one day I stopped.
 </div>
 
 <div markdown="3" class="article-link">
@@ -26,18 +26,93 @@ The accomplished Master will help the seeker to focus on his goal and the devote
 
 <div markdown="1" class="card article sidebar center">
 
-**Viewing Time**
+**A Beautiful Question**
 
 <div markdown="2" class="article-image">
-![Sufis](./img/webs.jpg)
+![A Beautiful Question](./img/keats.jpg)
 </div>
 
 <div markdown="3" class="article-para">
-One’s attachments, phobias and habits are as secure as the wisp of thought that repeatedly brings them about. The ultimate refuge is with Allah.
+One sees that Thomas is fascinated and excited to discover that reality conforms to his deepest hopes. Doubting Thomas is a hero, a happy man […] Those whose faith is not passive, but engages reality, will receive a second, more fulfilling blessing in the harmony of belief and experience.
+
+A deep and wide walk, led by Frank Wilczek, through the wonderful world of scientific symmeteries and Quantum Chromo-Dynamics.
 </div>
 
 <div markdown="3" class="article-link">
-[Read More](./)
+[Read More](./a-beautiful-question)
+</div>
+
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
+**Viewing Time**
+
+<div markdown="2" class="article-image">
+![Strange Loops](./img/butterfly_hofstadter.png)
+</div>
+
+<div markdown="3" class="article-para">
+By drawing a clear distinction between reality, and what we know about reality, this essay makes an argument for how to think about, describe and - ultimately - experience time differently. Perhaps even stop it altogether.
+</div>
+
+<div markdown="3" class="article-link">
+[Read More](./viewing-time)
+</div>
+
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
+**Blue Devotion**
+
+<div markdown="2" class="article-image">
+![Blue Devotion](./img/blue_book.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+This essay summarises the ideas behind, and the work done to achieve, The Blue Book. What is this digital artifact really inspired by, where did it come from, and what might it be used for going forward?
+</div>
+
+<div markdown="3" class="article-link">
+[Read More](./blue-devotion)
+</div>
+
+</div>
+
+
+<div markdown="1" class="card article sidebar center">
+
+**All The Colourful People**
+
+<div markdown="2" class="article-image">
+![All The Colourful People](./img/mandelbrot.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+An essay which discusses colourful and grey people, and how to stand beside one another in such a way that we can help the other turn to face the light in such a way that they refract it to produce the full rainbow spectrum.
+</div>
+
+<div markdown="3" class="article-link">
+[Read More](./colourful-people)
+</div>
+
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
+**Reading As Layered Ritual**
+
+<div markdown="2" class="article-image">
+![Reading As Layered Ritual](./img/reading_ritual.gif)
+</div>
+
+<div markdown="3" class="article-para">
+An exposition of Stanley Kunitz's famous poem, "The Layers" which goes into the art of deciphering, the role of "you" as a reader, and the many layers of self and text which must be worked through and seen just as they are if they are ever to be transcended.
+</div>
+
+<div markdown="3" class="article-link">
+[Read More](./reading-as-layered-ritual)
 </div>
 
 </div>

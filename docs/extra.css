@@ -2,6 +2,14 @@
     color: white!important
   }
 
+  .center-quote {
+    text-align: center;
+  }
+
+  .small-text {
+    font-size: 12px;
+  }
+
   .book-image, .video-image {
     width: 90%;
     margin: 0 auto;
@@ -17,14 +25,14 @@
   }
 
   .book-link, .video-link {
-    background:#E0B24D;
+    background:#4051B5;
     border-radius: 5px;
     width: 70%;
     margin: 0 auto;
   }
 
   .audio-link {
-    background:#E0B24D;
+    background:#4051B5;
     border-radius: 5px;
     width: 23.5%;
     float: left;

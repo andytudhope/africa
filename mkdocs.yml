@@ -1,12 +1,11 @@
 # Project information
-site_name: A House of Love
+site_name: Another House of Love
 site_description: Nothing could enter it but the sincere act
 site_author: Andy Tudhope
 
 # Specific to set up
-site_url: https://andytudhope.github.io/andytudhope.africa/writing/
+site_url: http://localhost:8080/writing/
 site_dir: public/writing
-logo_nav: https://andytudhope.github.io/andytudhope.africa/
 
 # Repository
 repo_name: andytudhope/africa
@@ -39,9 +38,9 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: assets/favicon.png
   icon:
-    logo: 'logo'
+    logo: logo
+  favicon: assets/favicon.png
 
 # Plugins
 plugins:
@@ -60,6 +59,7 @@ extra:
 # Extensions
 markdown_extensions:
   - markdown.extensions.admonition
+  - markdown.extensions.attr_list
   - markdown.extensions.codehilite:
       guess_lang: false
   - markdown.extensions.def_list
@@ -76,14 +76,24 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:pymdownx.emoji.twemoji
       emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  # - pymdownx.highlight:
+  #     linenums_style: pymdownx-inline
   - pymdownx.inlinehilite
   - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: andytudhope
+      repo: africa
   - pymdownx.mark
   - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      check_paths: true
   - pymdownx.superfences
   - pymdownx.tasklist:
       custom_checkbox: true
+  - pymdownx.tilde
   - pymdownx.extra
+  
 
 # Page tree
 nav:
@@ -92,10 +102,17 @@ nav:
   - Essays: 
     - 'Overview': 'essays/index.md'
     - 'Living': 'essays/living-essay.md'
+    - 'A Beautiful Question': 'essays/a-beautiful-question.md'
+    - 'Viewing Time': 'essays/viewing-time.md'
+    - 'Blue Devotion': 'essays/blue-devotion.md'
+    - 'All The Colourful People': 'essays/colourful-people.md'
+    - 'Reading As Layered Ritual': 'essays/reading-as-layered-ritual.md'
   - Poetry:
     - 'Overview': 'poetry/index.md'
-  - Short Stories:
-    - 'Overview': 'short-stories/index.md'
+    - 'Maryam': 'poetry/maryam.md'
+  - Prose:
+    - 'Overview': 'prose/index.md'
+    - 'Celebrate': 'prose/celebrate.md'
   - Academic Work:
     - 'Overview': 'academy/index.md'
-
+    - 'Yours Sincerely': 'academy/yours-sincerely.md'
