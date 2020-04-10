@@ -1,1 +1,6 @@
-public/writing/
+docs/
+material/
+public/
+mkdocs.yml
+requirements.txt
+webpack.config.js
