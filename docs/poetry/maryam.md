@@ -4,7 +4,7 @@ description: A eulogy for Mary Oliver
 
 # Maryam
 
-She left yesterday, my anam cara,  
+She left yesterday, my _anam cara_,  
 those strange sounds signifying  
 something before words,  
 some resonating field who formed  
@@ -49,3 +49,5 @@ just a soft rhythm rolling
 around an empty basket,  
 filled with compassion  
 and all our careful watching.  
+
+![Mary in love](./img/mary_oliver.jpg)

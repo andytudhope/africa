@@ -46,6 +46,24 @@ A deep and wide walk, led by Frank Wilczek, through the wonderful world of scien
 
 <div markdown="1" class="card article sidebar center">
 
+**Martyr of Hope - A Tribute to Bantu Steve Biko**
+
+<div markdown="2" class="article-image">
+![Bantu Steve Biko](./img/steve_biko.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+My tribute to one of the true stalwarts of the struggle against apartheid in South Africa, one of the greatest intellects to ever grace the African continent, and one of the finest human beings this world has ever seen.
+</div>
+
+<div markdown="3" class="article-link">
+[Read More](./bantu-steve-biko)
+</div>
+
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
 **Viewing Time**
 
 <div markdown="2" class="article-image">
@@ -80,6 +98,23 @@ This essay summarises the ideas behind, and the work done to achieve, The Blue B
 
 </div>
 
+<div markdown="1" class="card article sidebar center">
+
+**Language In The Ether**
+
+<div markdown="2" class="article-image">
+![Language In The Ether](./img/book.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+What does it mean to have an expressive programming language, which compiles down to binary and runs on a shared "world computer"? What kinds of metaphors can we use to engineer valuable meaning in the post-modern world?
+</div>
+
+<div markdown="3" class="article-link">
+[Read More](./language-in-the-ether)
+</div>
+
+</div>
 
 <div markdown="1" class="card article sidebar center">
 
