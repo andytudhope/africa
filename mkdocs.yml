@@ -4,7 +4,7 @@ site_description: Nothing could enter it but the sincere act
 site_author: Andy Tudhope
 
 # Specific to set up
-site_url: http://localhost:8080/writing/
+site_url: https://andytudhope.github.io/africa/writing/
 site_dir: public/writing
 
 # Repository
