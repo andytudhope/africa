@@ -21,7 +21,7 @@ _Lā ilāha illa'Llāh_.
 </div>
 
 <div markdown="3" class="article-para">
-A Master of Studies thesis for Oxford University in the field of World Literatures in English, written in 2014/5. The only thing really worth knowing is the map which reveals how to use language to break with frame of representation using language always-already implies.
+A Master of Studies thesis for Oxford University in the field of World Literatures in English, written in 2014/5. The only thing really worth knowing is the map which reveals how to use language to break with the frame of representation using language always-already implies.
 </div>
 
 <div markdown="3" class="article-link">
