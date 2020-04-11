@@ -93,6 +93,12 @@
     margin: 0;
   }
 
+  .article-image {
+    width: 90%;
+    margin: 0 auto;
+    float: none;
+  }
+
   .audio-link {
     margin: 4px 4px 0 0;
     width: 30%;
