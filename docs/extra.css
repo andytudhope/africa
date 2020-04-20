@@ -74,6 +74,11 @@
     margin: 0 0 0 30px;
   }
 
+  .comm-lang {
+    width: 100%;
+    height: 500px;
+  }
+
   .clear {
     clear: both;
   }
@@ -102,5 +107,9 @@
   .audio-link {
     margin: 4px 4px 0 0;
     width: 30%;
+  }
+
+  .comm-lang {
+    height: 300px;
   }
 }
