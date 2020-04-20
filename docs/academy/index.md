@@ -32,6 +32,24 @@ A Master of Studies thesis for Oxford University in the field of World Literatur
 
 <div markdown="1" class="card article sidebar center">
 
+**A New Community: the Language of Morrison and Mpe**
+
+<div markdown="2" class="article-image">
+![A New Community: the Language of Morrison and Mpe](./img/morrison.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+Despite the above, this essay has been edited extensively. I was insufferable in my fourth year and, though I had some good ideas, I had no means of making sense of them. This revised verion attempts to reinscribe the most ancient and important feature at the heart of any language - that is, the community which gives it meaning.
+</div>
+
+<div markdown="3" class="article-link">
+[Read More](./communal-language)
+</div>
+
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
 **Playing With Time: Milton's Satan, Similes, and Subversion**
 
 <div markdown="2" class="article-image">

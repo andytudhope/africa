@@ -115,6 +115,7 @@ nav:
     - 'Steel Jasmine': 'poetry/steel-jasmine.md'
     - 'Spring Free': 'poetry/spring-free.md'
     - 'Falcon Heavy': 'poetry/falcon-heavy.md'
+    - 'Still Life': 'poetry/still-life.md'
     - 'Basirah': 'poetry/basirah.md'
   - Prose:
     - 'Overview': 'prose/index.md'
@@ -125,4 +126,5 @@ nav:
   - Academic Work:
     - 'Overview': 'academy/index.md'
     - 'Yours Sincerely': 'academy/yours-sincerely.md'
+    - 'Communal Language': 'academy/communal-language.md'
     - 'Playing With Time': 'academy/playing-with-time.md'

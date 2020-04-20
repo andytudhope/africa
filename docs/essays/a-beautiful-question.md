@@ -297,13 +297,15 @@ So, take a look at the coat of arms designed by Niels Bohr, and I’ll leave you
 Niels Bohr’s coat-of-arms.
 </div>
 
->“Do I contradict myself? \
-> Very well, then, I contradict myself. \
-> I am large, I contain multitudes.” - Whitman
+>“Do I contradict myself?  
+> Very well, then, I contradict myself.  
+> I am large, I contain multitudes.”  
+> - Walt Whitman
 
 <div markdown="1" class="center-quote">
-_One story, one road now_ \
-_is left: that it is. And on this there are signs_ \
-_in plenty that, being, it is ungenerated and indestructible,_ \
-_whole, of one kind and unwavering, and complete._ Parmenides
+_One story, one road now_  
+_is left: that it is. And on this there are signs_  
+_in plenty that, being, it is ungenerated and indestructible,_  
+_whole, of one kind and unwavering, and complete._   
+> - Parmenides
 </div>
