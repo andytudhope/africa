@@ -103,7 +103,7 @@ Milton is continually turning the reading experience back on the reader; teachin
 
 He never allows the reader to settle in a time or place or to think about extra-dimensional beings in only one way, or through only one image. His use of contradictory images and systems (which are still fundamentally related in the cosmic background of the work) to illustrate and place his poem in time and space, serve to make the scale and scope truly infinite by refusing to fix any one point in absolute relation to any other. As soon as we believe Belial, we are rebuked into remembering that his words are only “… cloath’d in reasons garb”; as soon as we think we can picture Satan, we are told that what we had in mind is “but a wand” (Book I, 294) to the actual reality of the “Apostate Angel” (Book I, 125). The fallen angels as “Autumnal Leaves” (Book I, 299-311) is probably the most famous example of the sort of intermingled notions of myth, knowledge, time, place and space that constitutes the Miltonic world. Milton, in all his brilliance, is able to structure his very language and form so that any comment on the poem is, through the fundamental relationship of poem to reader, equally a comment on the reader himself.
 
-## Wors Cited
+## Works Cited
 
 Booth, Wayne C. _The Rhetoric of Fiction_. Chicago. Penguin Books, 1961.
 
