@@ -14,18 +14,18 @@ _Lā ilāha illa'Llāh_.
 
 <div markdown="1" class="card article sidebar center">
 
-**Yours Sincerely: Truth, Singularity, and Ontological Designing**
+**Playing With Time: Milton's Satan, Similes, and Subversion**
 
 <div markdown="2" class="article-image">
-![Happiness - A Map](./img/argument_for_happiness.png)
+![Tat tvam Asi](./img/tat_tvam_asi.jpg)
 </div>
 
 <div markdown="3" class="article-para">
-A Master of Studies thesis for Oxford University in the field of World Literatures in English, written in 2014/5. The only thing really worth knowing is the map which reveals how to use language to break with the frame of representation using language always-already implies.
+A Research Essay written in October 2012 at Rhodes University. It details the tragic figure of Satan in the epic poem _Paradise Lost_, the various ways in which he can be read, and what this ultimately reveals about the reader.
 </div>
 
 <div markdown="3" class="article-link">
-[Read More](./yours-sincerely)
+[Read More](./playing-with-time)
 </div>
 
 </div>
@@ -50,18 +50,19 @@ Despite the above, this essay has been edited extensively. I was insufferable in
 
 <div markdown="1" class="card article sidebar center">
 
-**Playing With Time: Milton's Satan, Similes, and Subversion**
+**Yours Sincerely: Truth, Singularity, and Ontological Designing**
 
 <div markdown="2" class="article-image">
-![Tat tvam Asi](./img/tat_tvam_asi.jpg)
+![Happiness - A Map](./img/argument_for_happiness.png)
 </div>
 
 <div markdown="3" class="article-para">
-A Research Essay written in October 2012 at Rhodes University. It details the tragic figure of Satan in the epic poem _Paradise Lost_, the various ways in which he can be read, and what this ultimately reveals about the reader.
+A Master of Studies thesis for Oxford University in the field of World Literatures in English, written in 2014/5. The only thing really worth knowing is the map which reveals how to use language to break with the frame of representation using language always-already implies.
 </div>
 
 <div markdown="3" class="article-link">
-[Read More](./playing-with-time)
+[Read More](./yours-sincerely)
 </div>
 
 </div>
+

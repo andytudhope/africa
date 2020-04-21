@@ -125,6 +125,6 @@ nav:
     - 'There’s You In Everything I Do': 'prose/you-in-everything-i-do.md'
   - Academic Work:
     - 'Overview': 'academy/index.md'
-    - 'Yours Sincerely': 'academy/yours-sincerely.md'
-    - 'Communal Language': 'academy/communal-language.md'
     - 'Playing With Time': 'academy/playing-with-time.md'
+    - 'Communal Language': 'academy/communal-language.md'
+    - 'Yours Sincerely': 'academy/yours-sincerely.md'
