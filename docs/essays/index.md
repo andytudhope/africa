@@ -151,3 +151,21 @@ An exposition of Stanley Kunitz's famous poem, "The Layers" which goes into the 
 </div>
 
 </div>
+
+<div markdown="1" class="card article sidebar center">
+
+**Rough Consensus and Running Code**
+
+<div markdown="2" class="article-image">
+![Rough Consensus and Running Code](./img/socrates-hemlock.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+A summary of the famous IETF working paper of the same title, updated for a slightly more modern internet as we are experiencing it nearly 30 years later.
+</div>
+
+<div markdown="3" class="article-link">
+[Read More](./running-code)
+</div>
+
+</div>
