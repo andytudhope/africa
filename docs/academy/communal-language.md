@@ -240,7 +240,7 @@ Herein lies the beauty, and the frustration, of this conception of language: we 
 
 ## If You're Lost...
 
-<iframe class="comm-lang" src="https://www.nocookie-youtube.com/embed/628eVJgHD6I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="comm-lang" src="https://www.youtube-nocookie.com/embed/628eVJgHD6I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Works Cited
 

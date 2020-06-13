@@ -31,10 +31,9 @@ Another effect of his poisoning is that Animal hears voices. Such hallucinations
 
 These disabling voices do not present knowledge in a way _you_ can understand, but they do _enable_ Animal to gain unique insight: “Like rejoicing, the world’s unspoken languages are rushing into my head. Unusual meanings are making themselves known to me. Secrets are shouting themselves into my ear, seems there’s nothing I cannot know. Ssspsss, haaarrr, khekhekhe, mmms, this is how the voices are” (11). Animal’s subjugated body becomes, in this strange way, the site of all ‘the world’s unspoken languages’. Again, you the reader need not understand this, indeed you cannot understand it. You just need to listen closely enough to hear the rejoicing which is inseparable from his unique suffering. The fact that you cannot contextualise or categorise the unspoken does not mean that it doesn’t exist, and holding the space for such possibility without forcing it into your own interpretive framework is exactly the sort of social and political reimagination the novel is trying to inculcate.
 
-An unsolvable oscillation between pain and possibility define Animal’s narration, moving between the “wild, stupid, unforgivable hope” (141) that he might be comprehended and his ever-present awareness that  \
+An unsolvable oscillation between pain and possibility define Animal’s narration, moving between the “wild, stupid, unforgivable hope” (141) that he might be comprehended and his ever-present awareness that
 
-> “You were like all the others, come to suck our stories from us, so strangers in far off countries can marvel there’s so much pain in the world. Like vultures you are jarnaliss [...] You have turned us Khaufpuris into storytellers, but always of the same story. Ous raat, cette nuit, that night, that fucking night” (5). \
-
+> “You were like all the others, come to suck our stories from us, so strangers in far off countries can marvel there’s so much pain in the world. Like vultures you are jarnaliss [...] You have turned us Khaufpuris into storytellers, but always of the same story. Ous raat, cette nuit, that night, that fucking night” (5).
 
 The “Kakadu Jarnalis” talks of “rights, law, justice”, but Animal is quick to point out that those “words sound the same in my mouth as in yours but they don’t mean the same [...] On that night it was poison, now it’s words that are choking us” (3). You are part of the system which consumes as entertainment pain caused by its own economic and environmental operations. Any reader who interprets the text using their own words (which all readers must do), necessarily poisons and stunts Animal’s story in the same way that Union Carbide poisoned thousands of people and then essentially left them to die. “Our construction of the normal world is based on a radical repression of disability” explains Davis, pointing out that “the problem is the way that normalcy is constructed to create the ‘problem’ of the disabled person” (_Disabilities_, 22-4). “What is that hush?” Animal asks, sensing hesitancy, “On your side it’s shame because you know you are paying shit for something priceless.” (_Animal’s People_, 10).
 
@@ -83,7 +82,7 @@ Just **listen**, and be **silent**. Do not imagine this will let you escape from
 
 Do you see yet that listen and silent are anagrams?
 
-<iframe class="comm-lang" src="https://www.nocookie-youtube.com/embed/n6oSeODGmoQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="comm-lang" src="https://www.youtube-nocookie.com/embed/n6oSeODGmoQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Dreaming Reality
 
