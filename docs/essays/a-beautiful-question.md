@@ -24,7 +24,7 @@ Like all great queries, it is its simplicity that acts as a key capable of unloc
 
 ## Numbering the Harmonies
 
-This version of the story starts with Pythagoras, who believed that _All Things Are Number_, because he managed to show how not only shape (in the case of triangles), but also length and tension (in the case of musical strings) are related through number to harmony. The world of mind and the world of matter influence one another, profoundly, and this was already enough – more than 2,000 years ago – to anchor a mystical worldview.
+This version of the story starts with Pythagoras, who believed that _All Things Are Number_, because he managed to show how not only **shape** (in the case of triangles), but also **length** and tension or **weight** (in the case of musical strings) are related through number to harmony. The world of mind and the world of matter influence one another, profoundly, and this was already enough – more than 2,000 years ago – to anchor a mystical worldview.
 
 The Greeks, however, were not able to answer the inevitable follow-up to Pythagoras’ discoveries, namely; _why_ do musical notes in ratios of small whole numbers sound beautiful to us humans?
 
@@ -33,7 +33,7 @@ Well, by mapping the inner ear and casting our brain as a pattern prediction eng
 
 ## Spiritual Science
 
-Of course – for the ancient Greeks – science and spirituality were not separate fields of study. E. O. Wilson calls this the "Ionian Dream" in his wonderful book "Consilience" - which is alaos well worth reading. In truth, every one of the greatest scientific minds since Pythagoras has entertained this same unificatory dream in some manner, and all of them - without fail - have pointed to some greater pattern behind what their work itself reveals.
+Of course – for the ancient Greeks – science and spirituality were not separate fields of study. E. O. Wilson calls this the "Ionian Dream" in his wonderful book "Consilience" - which is also well worth reading. In truth, every one of the greatest scientific minds since Pythagoras has entertained this same unificatory dream in some manner, and all of them - without fail - have pointed to some greater pattern behind what their work itself reveals.
 
 Newton is perhaps the best example: he was a deeply devout man, and yet his devotion was not the result of magical thinking: it was a consequence of the method of **Analysis** and **Synthesis** that he put forward most eloquently in _Principia_. It’s worth repeating for emphasis: his devotion was not the _result_ of his spirituality and, like, what he wanted to manifest; it was a _consequence_ of his scientific view of the world.
 
@@ -144,7 +144,7 @@ A lot of the above section is paraphrased from Wilczek’s actual book, but rema
 
 ## A Paradise Within Thee, Happier Farr
 
-Of course, Maxwell was alert to this conundrum, but only saw it is more evidence of benevolent Creation:
+Of course, Maxwell was alert to this conundrum, but only saw it as more evidence of benevolent Creation:
 
 > “Natural causes, as we know, are at work, which tend to modify, if they do not at length destroy, all the dimensions of the earth and the whole solar system. But though in the course of ages catastrophes have occurred and may yet occur in the heavens, though ancient systems may be dissolved and new systems evolved out of their ruins, the molecules out of which these systems are built – the foundation stones of the material universe – remain unbroken and unworn.
 
@@ -186,7 +186,7 @@ This turned out to be a little too poetic, though. Criticizing the term “Stand
 **_yin || yang”_**
 </div>
 
-> The whole thing is self-similar across scales, and in all dimensions. This is what makes valid the claim that the weak and strong forces are based on the same exact pattern as Maxwell described for electromagnetic forces; it’s just that they include extra property spaces, like _spin_ and _colour_ in addition to the _charge_ we find in Maxwell’s dreams. Though gravity presents something of a problem, all four can be neatly captured:
+The whole thing is self-similar across scales, and in all dimensions. This is what makes valid the claim that the weak and strong forces are based on the same exact pattern as Maxwell described for electromagnetic forces; it’s just that they include extra property spaces, like _spin_ and _colour_ in addition to the _charge_ we find in Maxwell’s dreams. Though gravity presents something of a problem, all four can be neatly captured:
 
 > “And so, putting it all together:
 
@@ -256,7 +256,7 @@ Don’t just glide over this, because asymptotic freedom implies a certain simpl
 
 Describing the coming together of this theory as what is now known as Quantum Chromodynamics (QCD), an animated Wilczek also invokes the spiritual:
 
-> “When David Gross and I, and independently David Politzer, discovered that it _is_possible, it was the sort of moment the Kabbala describes as the “trembling of the Veil of the Temple,” when the shroud that keeps the divine world hidden from our vision stirs.”
+> “When David Gross and I, and independently David Politzer, discovered that it _is_ possible, it was the sort of moment the Kabbala describes as the “trembling of the Veil of the Temple,” when the shroud that keeps the divine world hidden from our vision stirs.”
 
 Moreover, no longer is this the stirring dance of magic or mysticism, but one somehow even more filled with wonder; with the awe of patterned understanding.
 
@@ -281,7 +281,7 @@ Caravaggio’s _Incredulity of Saint Thomas_
 
 > Blessed are those who believe what they see.”
 
-So, take a look at the coat of arms designed by Niels Bohr, and I’ll leave you with the last six complementarities Wilczek bestowed upon us that night, in the hope it might lead a few weary souls somewhere closer to wisdom:
+So, take a look at the coat of arms designed by Niels Bohr, and I’ll leave you with the last six complementarities Wilczek bestowed upon us that night, in the hope it might lead a few wary souls somewhere closer to wisdom:
 
 1. **Reduction and Abundance**: The basic building blocks are few and profoundly simple, defined by high symmetries. The world of objects is infinitely various and complex.
 2. **Object and Person**: I am, and you are, a collection of subatomic particles. I am, and you are, a thinking person.

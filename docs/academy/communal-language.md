@@ -12,7 +12,7 @@ Words: 10101
 
 ## Shared Meaning
 
-Once, we were warriors, and we wrote a group research essay on the South African writer Ivan Vladislavić, entitled “Imagining the ‘Unimaginable Latitudes’”. In the course of that work, it became apparent that the attempt to imagine “the unimaginable” (Vladislavić 13); or Orpheus’s attempt to gaze on Eurydice; or any attempt to quantify exactly what the scarlet letter; or the phantasmal, iconic, Moby-Dick; or what Kurtz’s final, horrific words **mean** must suffer from the same difficulties as those pointed at in what follows. Therefore, the primary focus of this supposedly individual essay is rather that most ancient and important _feature_ of unimaginable words: the community which give them meaning.[^1] Language which reflects communal meaning - and communities which employ self-reflexive language consciously - require **immersion**, along with recognition of all participants as valid members in a matrix of belonging, in order for any utterance to be  understandable.  
+Once, we were warriors, and we wrote a group research essay on the South African writer Ivan Vladislavić, entitled “Imagining the ‘Unimaginable Latitudes’”. In the course of that work, it became apparent that the attempt to imagine “the unimaginable” (Vladislavić 13); or Orpheus’s attempt to gaze on Eurydice; or any attempt to quantify exactly what the scarlet letter; or the phantasmal, iconic, Moby-Dick; or what Kurtz’s final, horrific words **mean** must suffer from the same difficulties as those pointed at in what follows. Therefore, the primary focus of this supposedly individual essay is rather that most ancient and important _feature_ of unimaginable words: the community which give them meaning.[^1] Language which reflects communal meaning - and community which employs self-reflexive language consciously - requires **immersion**, along with recognition of all participants as valid members in a matrix of belonging, in order for any utterance to be  understandable.  
 
 Writers like Toni Morrison and Phaswane Mpe are exemplary in their attempt to re-inscribe the community which sits at the heart of any consensually-arrived-at word. When reading them, one comes to realise that both are attempting to use language to give meaning to and extend that which gives language meaning: **community**. In a similarly self-recursive vein, the truth is that ‘I’ cannot write an essay which changes anyone’s conception of language but ‘my’ own.[^2] However, it is only in acknowledging this, and pointing to the infinite possibility allowed for by Derrida’s “différance” (18), that we can even hope to achieve the aim of this paper: an old sense of communal language rendered anew for a hyper-individualistic age.
 
@@ -240,7 +240,7 @@ Herein lies the beauty, and the frustration, of this conception of language: we 
 
 ## If You're Lost...
 
-<iframe class="comm-lang" src="https://www.youtube.com/embed/628eVJgHD6I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="comm-lang" src="https://www.nocookie-youtube.com/embed/628eVJgHD6I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Works Cited
 

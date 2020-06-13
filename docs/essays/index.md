@@ -64,6 +64,24 @@ My tribute to one of the true stalwarts of the struggle against apartheid in Sou
 
 <div markdown="1" class="card article sidebar center">
 
+**_Animal's People_ - Embodying What You Read**
+
+<div markdown="2" class="article-image">
+![book cover](./img/animals_people.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+A long essay on one of the most important novels ever written, exploring the limits of empathy, the failings of liberalism, and what it really means to read responsibly.
+</div>
+
+<div markdown="3" class="article-link">
+[Read More](./animals-people)
+</div>
+
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
 **Viewing Time**
 
 <div markdown="2" class="article-image">

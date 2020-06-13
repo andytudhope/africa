@@ -15,6 +15,10 @@ Rough consensus is therefore a sort of "exception processing", meant to deal wit
 
 One of the strengths of this model is that minority views are addressed, **with justification**. Simply having a large majority of people agreeing to dismiss an objection is not enough to claim there is rough consensus; the group must have honestly considered the objection and addressed fully all technical issues.
 
+This idea has taken hold among a certain kind of software developer and group of thinkers since the early 1990's. Such people are what Venkatesh Rao refers to as "Breaking Smart". In [his own take](https://breakingsmart.com/en/season-1/rough-consensus-and-maximal-interestingness/) on the IETF's famous paper, he writes:
+
+> "In its most powerful form, rough consensus is about finding the most fertile directions in which to proceed rather than uncovering constraints. Constraints in software tend to be relatively few and obvious. Possibilities, however, tend to be intimidatingly vast. Resisting limiting visions, finding the most fertile direction, and allying with the right people become the primary challenges."
+
 Pete Resnick, the author, quotes a presentation from Dave Clark in order to establish his argument. In that [same presentation](https://www.ietf.org/proceedings/24.pdf) (see pg 551), Clark outlined what the IETF was good and bad at in 1992:
 
 **What are we good at?**  
@@ -87,3 +91,9 @@ It all sounds awfully familiar nearly 30 years later. The below only summarises 
 2. The principle is still the same: If the objection has been addressed, and the new voices are not giving informed responses to that point, it can still justifiably be called rough consensus.  
 
 3. Sometimes, a show of hands can be useful; sometimes, it can be damaging and result in suboptimal decisions.  Sometimes, using a device like a "hum" can avoid those pitfalls; sometimes, it is just a poorly disguised vote. The objective nevertheless remains to protect against simple “majority rule” and get to the best technical outcomes.
+
+It's worth going back to Venkatesh Rao for some concluding remarks:
+
+> "The consequences of this optimistic approach are radical. Traditional processes of consensus-seeking drive towards clarity in long-term visions but are usually fuzzy on immediate next steps. By contrast, rough consensus in software deliberately seeks ambiguity in long-term outcomes and extreme clarity in immediate next steps \[...\] Clarity in next steps counteracts the tendency to overestimate what is possible in the short term, while comfort with ambiguity in visions counteracts the tendency to underestimate what is possible in the long term \[...\]
+
+> "In other words, true north in software  is often the direction that combines ambiguity and evidence of fertility in the most alluring way: the direction of _maximal interestingness_."

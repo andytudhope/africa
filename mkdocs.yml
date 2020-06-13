@@ -4,8 +4,8 @@ site_description: Nothing could enter it but the sincere act
 site_author: Andy Tudhope
 
 # Specific to set up
-site_url: https://andytudhope.africa/writing/
-site_dir: public/writing
+site_url: https://andytudhope.africa/
+site_dir: public
 
 # Repository
 repo_name: andytudhope/africa
@@ -97,13 +97,13 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home: 
-    - 'Landing Page': '../'
+  - Home: 'index.md'
   - Essays: 
     - 'Overview': 'essays/index.md'
     - 'Living': 'essays/living-essay.md'
     - 'A Beautiful Question': 'essays/a-beautiful-question.md'
     - 'Martyr of Hope': 'essays/bantu-steve-biko.md'
+    - 'Animal’s People': 'essays/animals-people.md' 
     - 'Viewing Time': 'essays/viewing-time.md'
     - 'Blue Devotion': 'essays/blue-devotion.md'
     - 'Language In The Ether': 'essays/language-in-the-ether.md'
