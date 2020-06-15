@@ -29,7 +29,7 @@ _And the seas’ expanse._
 _And death, and chance._  
 </div>
 
-<div markdown="3" class="article-link">
+<div markdown="3" class="link">
 [Read More](./celebrate)
 </div>
 
@@ -47,7 +47,7 @@ _And death, and chance._
 A short piece which plays with the pronouns "I" and "you", and floats somewhere between on the beat of broken sentences and fragrant suggestion.  
 </div>
 
-<div markdown="3" class="article-link">
+<div markdown="3" class="link">
 [Read More](./rivers-of-you)
 </div>
 
@@ -65,7 +65,7 @@ A short piece which plays with the pronouns "I" and "you", and floats somewhere 
 Some rare biographical writing about my experiences in Englad while studying, and all of the many ways in which is is possible to traverse time while living through it.  
 </div>
 
-<div markdown="3" class="article-link">
+<div markdown="3" class="link">
 [Read More](./father-time)
 </div>
 
@@ -83,7 +83,7 @@ Some rare biographical writing about my experiences in Englad while studying, an
 Consider again that every "I" who speaks implies a "you" who is listening, in whose response that "I" will become "you". This movement between pronouns is the mark of any dialogue, and constitutes "our" sense of self. Here is a further demonstration of this primary phenomenon.  
 </div>
 
-<div markdown="3" class="article-link">
+<div markdown="3" class="link">
 [Read More](./you-in-everything-i-do)
 </div>
 

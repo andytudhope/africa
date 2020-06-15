@@ -10,7 +10,7 @@
     font-size: 12px;
   }
 
-  .book-image, .video-image {
+  .book-image {
     width: 90%;
     margin: 0 auto;
   }
@@ -20,43 +20,34 @@
     margin: 0 auto;
   }
 
-  .video-image p {
-    margin-bottom: 40px;
-  }
-
-  .book-link, .video-link {
-    background:#4051B5;
-    border-radius: 5px;
-    width: 70%;
+  .book-link p, .link p {
+    background:#000;
+    border: 1px solid #000;
+    border-radius: 8px;
     margin: 0 auto;
-  }
-
-  .audio-link {
-    background:#4051B5;
-    border-radius: 5px;
-    width: 23.5%;
-    float: left;
-    margin: 4px 8px 0 0;
-    height: 30px !important;
-  }
-
-  .audio-link p {
-    margin: 1px;
-    text-align: center;
+    padding: 5px;
   }
 
   .book-link p {
-    padding: 5px;
+    width: 70%;
   }
 
-  .video-link p {
-    padding: 5px;
-    height: 35px !important;
+  .link p {
+    width:30%;
+    text-align: center;
   }
 
-  .book-link a, .purchase-link a, .video-link a, .audio-link a {
+  .book-link p:hover, .link p:hover {
+    background: rgba(0,0,0,0.2);
+  }
+
+  .book-link a, .link a {
     color: #fff !important;
     font-weight: bold;
+  }
+
+  .book-link a:hover, .link a:hover {
+    color: #000 !important;
   }
 
   .article-image {
@@ -104,9 +95,8 @@
     float: none;
   }
 
-  .audio-link {
-    margin: 4px 4px 0 0;
-    width: 30%;
+  .link p {
+    width: 70%;
   }
 
   .comm-lang {

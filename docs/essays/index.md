@@ -18,7 +18,7 @@ description: An overview of all the essays written by Andy Tudhope
 I have read many books in my life, searching for this ‘other reality’ scribbled out by various authors. I sought the secret everywhere and did the most silly things in my attempt to discover a way in. Until one day I stopped.
 </div>
 
-<div markdown="3" class="article-link">
+<div markdown="3" class="link">
 [Read More](./living-essay)
 </div>
 
@@ -38,7 +38,7 @@ One sees that Thomas is fascinated and excited to discover that reality conforms
 A deep and wide walk, led by Frank Wilczek, through the wonderful world of scientific symmeteries and Quantum Chromo-Dynamics.
 </div>
 
-<div markdown="3" class="article-link">
+<div markdown="3" class="link">
 [Read More](./a-beautiful-question)
 </div>
 
@@ -56,7 +56,7 @@ A deep and wide walk, led by Frank Wilczek, through the wonderful world of scien
 My tribute to one of the true stalwarts of the struggle against apartheid in South Africa, one of the greatest intellects to ever grace the African continent, and one of the finest human beings this world has ever seen.
 </div>
 
-<div markdown="3" class="article-link">
+<div markdown="3" class="link">
 [Read More](./bantu-steve-biko)
 </div>
 
@@ -72,9 +72,11 @@ My tribute to one of the true stalwarts of the struggle against apartheid in Sou
 
 <div markdown="3" class="article-para">
 A long essay on one of the most important novels ever written, exploring the limits of empathy, the failings of liberalism, and what it really means to read responsibly.
+
+What is really toxic: the world as it is, or our attempt to contain it within our limited interpretive frameworks?
 </div>
 
-<div markdown="3" class="article-link">
+<div markdown="3" class="link">
 [Read More](./animals-people)
 </div>
 
@@ -92,7 +94,7 @@ A long essay on one of the most important novels ever written, exploring the lim
 By drawing a clear distinction between reality, and what we know about reality, this essay makes an argument for how to think about, describe and - ultimately - experience time differently. Perhaps even stop it altogether.
 </div>
 
-<div markdown="3" class="article-link">
+<div markdown="3" class="link">
 [Read More](./viewing-time)
 </div>
 
@@ -110,7 +112,7 @@ By drawing a clear distinction between reality, and what we know about reality, 
 This essay summarises the ideas behind, and the work done to achieve, The Blue Book. What is this digital artifact really inspired by, where did it come from, and what might it be used for going forward?
 </div>
 
-<div markdown="3" class="article-link">
+<div markdown="3" class="link">
 [Read More](./blue-devotion)
 </div>
 
@@ -128,7 +130,7 @@ This essay summarises the ideas behind, and the work done to achieve, The Blue B
 What does it mean to have an expressive programming language, which compiles down to binary and runs on a shared "world computer"? What kinds of metaphors can we use to engineer valuable meaning in the post-modern world?
 </div>
 
-<div markdown="3" class="article-link">
+<div markdown="3" class="link">
 [Read More](./language-in-the-ether)
 </div>
 
@@ -146,7 +148,7 @@ What does it mean to have an expressive programming language, which compiles dow
 An essay which discusses colourful and grey people, and how to stand beside one another in such a way that we can help the other turn to face the light in such a way that they refract it to produce the full rainbow spectrum.
 </div>
 
-<div markdown="3" class="article-link">
+<div markdown="3" class="link">
 [Read More](./colourful-people)
 </div>
 
@@ -164,7 +166,7 @@ An essay which discusses colourful and grey people, and how to stand beside one 
 An exposition of Stanley Kunitz's famous poem, "The Layers" which goes into the art of deciphering, the role of "you" as a reader, and the many layers of self and text which must be worked through and seen just as they are if they are ever to be transcended.
 </div>
 
-<div markdown="3" class="article-link">
+<div markdown="3" class="link">
 [Read More](./reading-as-layered-ritual)
 </div>
 
@@ -182,7 +184,7 @@ An exposition of Stanley Kunitz's famous poem, "The Layers" which goes into the 
 A summary of the famous IETF working paper of the same title, updated for a slightly more modern internet as we are experiencing it nearly 30 years later.
 </div>
 
-<div markdown="3" class="article-link">
+<div markdown="3" class="link">
 [Read More](./running-code)
 </div>
 

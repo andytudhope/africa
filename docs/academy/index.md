@@ -24,7 +24,7 @@ _Lā ilāha illa'Llāh_.
 A Research Essay written in October 2012 at Rhodes University. It details the tragic figure of Satan in the epic poem _Paradise Lost_, the various ways in which he can be read, and what this ultimately reveals about the reader.
 </div>
 
-<div markdown="3" class="article-link">
+<div markdown="3" class="link">
 [Read More](./playing-with-time)
 </div>
 
@@ -42,7 +42,7 @@ A Research Essay written in October 2012 at Rhodes University. It details the tr
 Despite the above, this essay has been edited extensively. I was insufferable in my fourth year and, though I had some good ideas, I had no means of making sense of them. This revised verion attempts to reinscribe the most ancient and important feature at the heart of any language - that is, the community which gives it meaning.
 </div>
 
-<div markdown="3" class="article-link">
+<div markdown="3" class="link">
 [Read More](./communal-language)
 </div>
 
@@ -60,7 +60,7 @@ Despite the above, this essay has been edited extensively. I was insufferable in
 A Master of Studies thesis for Oxford University in the field of World Literatures in English, written in 2014/5. The only thing really worth knowing is the map which reveals how to use language to break with the frame of representation using language always-already implies.
 </div>
 
-<div markdown="3" class="article-link">
+<div markdown="3" class="link">
 [Read More](./yours-sincerely)
 </div>
 
