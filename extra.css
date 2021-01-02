@@ -6,6 +6,12 @@
     text-align: center;
   }
 
+  .center-img {
+    display: block;
+    margin: 0 auto;
+    width: 70%;
+  }
+
   .small-text {
     font-size: 12px;
   }
@@ -74,6 +80,13 @@
     clear: both;
   }
 
+  .video-frame {
+    display: block;
+    width: 90%;
+    height: 400px;
+    margin: 0 auto;
+  }
+
 @media (max-width: 761px) {
 
   .md-typeset h1 {
@@ -101,5 +114,9 @@
 
   .comm-lang {
     height: 300px;
+  }
+
+  .video-frame {
+    height: 250px;
   }
 }
