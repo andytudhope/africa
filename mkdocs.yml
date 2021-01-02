@@ -109,7 +109,8 @@ nav:
     - 'Language In The Ether': 'essays/language-in-the-ether.md'
     - 'All The Colourful People': 'essays/colourful-people.md'
     - 'Reading As Layered Ritual': 'essays/reading-as-layered-ritual.md'
-    - 'Running Code': 'essays/running-code.md'
+    - 'Transformative Tools': https://kernel.community/module-3/remember/
+    - 'Running Code': https://kernel.community/module-4/consensus/
   - Poetry:
     - 'Overview': 'poetry/index.md'
     - 'Maryam': 'poetry/maryam.md'
@@ -129,3 +130,7 @@ nav:
     - 'Playing With Time': 'academy/playing-with-time.md'
     - 'Communal Language': 'academy/communal-language.md'
     - 'Yours Sincerely': 'academy/yours-sincerely.md'
+  - Soul:
+    - 'Pearls': 'soul/index.md'
+    - 'Beams': 'soul/beams.md'
+    - 'Bursts': 'soul/bursts.md'
