@@ -84,6 +84,24 @@ What is really toxic: the world as it is, or our attempt to contain it within ou
 
 <div markdown="1" class="card article sidebar center">
 
+**The Final Belt**
+
+<div markdown="2" class="article-image">
+![Two Row Wampum Belt](./img/two-row-wampum.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+A true story about a Two Row Wampum Council meeting in which the Black Wampum Belt was shown for the first time in this Great Year (~25 772 years), and what it meant to those who attended.
+</div>
+
+<div markdown="3" class="link">
+[Read More](./the-final-belt)
+</div>
+
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
 **Viewing Time**
 
 <div markdown="2" class="article-image">
