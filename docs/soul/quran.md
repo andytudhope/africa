@@ -26,7 +26,12 @@ for which I am responsible.
 
 ---
 
-Please complete _wudu_ before reading this. Alternatively, stop here, close your eyes and focus on your breath. Allow yourself to sink into the silence between each impulse. Let your attention return to its seat in your heart. What follows is [[about]] reflecting (on) the truth.
+_Visankharagatam cittam_  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gone to dissolution is the mind,  
+_Tanhanam khayam ajjhaga_  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The cravings have come to an end.  
+
+Please complete _wudu_ before reading this. Alternatively, stop here, close your eyes and focus on your breath. Allow yourself to sink into the silence between each impulse. Let your attention return to its seat in your heart. What follows is about reflecting (on) Truth.
 
 ---
 

@@ -203,7 +203,7 @@ A summary of the famous IETF working paper of the same title, updated for a slig
 </div>
 
 <div markdown="3" class="link">
-[Read More](./running-code)
+<a href="https://kernel.community/module-4/consensus/" target="blank" rel="noopener noreferrer">Read More</a>
 </div>
 
 </div>
