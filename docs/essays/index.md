@@ -1,6 +1,7 @@
-title: Overview - Essays
-
+---
+title: Essays
 description: An overview of all the essays written by Andy Tudhope
+---
 
 # Essays
 

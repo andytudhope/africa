@@ -1,5 +1,5 @@
 # Project information
-site_name: Another House of Love
+site_name: The Sincere Path
 site_description: Nothing could enter it but the sincere act
 site_author: Andy Tudhope
 
@@ -99,7 +99,7 @@ markdown_extensions:
 nav:
   - Home: 'index.md'
   - Essays: 
-    - 'Overview': 'essays/index.md'
+    - 'Introduction': 'essays/index.md'
     - 'Living': 'essays/living-essay.md'
     - 'A Beautiful Question': 'essays/a-beautiful-question.md'
     - 'Martyr of Hope': 'essays/bantu-steve-biko.md'
