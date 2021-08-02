@@ -7,24 +7,6 @@ description: An overview of all the essays written by Andy Tudhope
 
 <div markdown="1" class="card article sidebar center">
 
-**Martyr of Hope - A Tribute to Bantu Steve Biko**
-
-<div markdown="2" class="article-image">
-![Bantu Steve Biko](./img/steve_biko.jpg)
-</div>
-
-<div markdown="3" class="article-para">
-My tribute to one of the true stalwarts of the struggle against apartheid in South Africa, one of the greatest intellects to ever grace the African continent, and one of the finest human beings this world has ever seen.
-</div>
-
-<div markdown="3" class="link">
-[Read More](./bantu-steve-biko)
-</div>
-
-</div>
-
-<div markdown="1" class="card article sidebar center">
-
 **_Animal's People_ - Embodying What You Read**
 
 <div markdown="2" class="article-image">
@@ -39,6 +21,24 @@ What is really toxic: the world as it is, or our attempt to contain it within ou
 
 <div markdown="3" class="link">
 [Read More](./animals-people)
+</div>
+
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
+**Martyr of Hope - A Tribute to Bantu Steve Biko**
+
+<div markdown="2" class="article-image">
+![Bantu Steve Biko](./img/steve_biko.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+My tribute to one of the true stalwarts of the struggle against apartheid in South Africa, one of the greatest intellects to ever grace the African continent, and one of the finest human beings this world has ever seen.
+</div>
+
+<div markdown="3" class="link">
+[Read More](./bantu-steve-biko)
 </div>
 
 </div>
@@ -130,7 +130,7 @@ How to build your own book using an infinite library and non-fungible tokens tha
 </div>
 
 <div markdown="3" class="link">
-[Read More](./finding-infinity)
+[Read More](./finding-blue-infinity)
 </div>
 
 </div>
