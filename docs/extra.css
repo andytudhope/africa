@@ -138,8 +138,9 @@
 }
 
 .main-logo {
-  margin: -200px auto 0 auto;
+  margin: -220px auto 0 auto;
   display: block;
+  width: 100%;
 }
 
 .callout-home {
@@ -210,9 +211,9 @@
 }
 
 .book {
-  width: 46%;
+  width: 31%;
   float: left;
-  margin: 20px 30px 20px 0;
+  margin: 15px 15px 15px 0;
   padding: 4px;
   border: 1px solid #cecece;
   border-radius: 4px;
