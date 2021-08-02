@@ -1,7 +1,7 @@
 ---
 title: The Final Belt
 description: 'The story of a Two Row Wampum meeting and the Final Belt.'
-image: img/two-row-wampum.jpg
+image: essays/img/two-row-wampum.jpg
 ---
 
 # The Final Belt

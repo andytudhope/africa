@@ -1,7 +1,7 @@
 ---
 title: Animal's People
 description: 'A long essay on one of the most important novels ever written, exploring the limits of empathy, the failings of liberalism, and what it really means to read in an embodied way.'
-image: img/animals_people.jpg
+image: essays/img/animals_people.jpg
 ---
 
 ## Empathy vs Honesty

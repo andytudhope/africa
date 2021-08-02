@@ -1,7 +1,7 @@
 ---
 title: Living - The Essay
 description: 'If you use language in a self-conscious way, you can de-sign the self. If we take the writer at their word when they acknowledge sincerely that they can never tell the truth, we may see how this **is** the ultimate truth'
-image: img/ocean_fire.jpg
+image: essays/img/ocean_fire.jpg
 ---
 
 # Living: The Essay
