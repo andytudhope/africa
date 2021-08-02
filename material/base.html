@@ -10,10 +10,20 @@
     {% block site_meta %}
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta property="og:type" content="website">
+      {% if page and page.meta and page.meta.title %}
+        <meta name="og:title" content="{{ page.meta.title }}">
+        <meta name="twitter:title" content="{{ page.meta.title }}">
+      {% elif config.site_name %}
+        <meta name="og:title" content="{{ config.site_name }}">
+        <meta name="twitter:title" content="{{ config.site_name }}">
+      {% endif %}
       {% if page and page.meta and page.meta.description %}
-        <meta name="description" content="{{ page.meta.description }}">
+        <meta name="og:description" content="{{ page.meta.description }}">
+        <meta name="twitter:description" content="{{ page.meta.description }}">
       {% elif config.site_description %}
-        <meta name="description" content="{{ config.site_description }}">
+        <meta name="og:description" content="{{ config.site_description }}">
+        <meta name="twitter:description" content="{{ config.site_description }}">
       {% endif %}
       {% if page and page.meta and page.meta.redirect %}
         <script>var anchor=window.location.hash.substr(1);location.href="{{ page.meta.redirect }}"+(anchor?"#"+anchor:"")</script>
@@ -23,11 +33,9 @@
       {% elif page.canonical_url %}
         <link rel="canonical" href="{{ page.canonical_url }}">
       {% endif %}
-      {% if page and page.meta and page.meta.author %}
-        <meta name="author" content="{{ page.meta.author }}">
-      {% elif config.site_author %}
-        <meta name="author" content="{{ config.site_author }}">
-      {% endif %}
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:site" content="@cryptowanderer">
+      <meta name="twitter:creator" content="@cryptowanderer">
       {% if page and page.meta and page.meta.image %}
         {% set image = config.site_url ~ page.meta.image %}
         <meta property="og:image" content="{{ image }}">

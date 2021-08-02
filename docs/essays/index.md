@@ -1,6 +1,7 @@
 ---
 title: Essays
 description: An overview of all the essays written by Andy Tudhope
+image: img/blue_book.jpg
 ---
 
 # Essays

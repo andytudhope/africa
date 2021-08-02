@@ -1,7 +1,7 @@
 ---
 title: All The Colourful People
 description: 'How to stand beside one another in such a way that we can help the other turn to face the light in such a way that we refract it to produce the full rainbow spectrum.'
-image: ./img/enso.png
+image: img/enso.png
 ---
 
 # All The Colourful People

@@ -1,7 +1,7 @@
 ---
 title: A Beautiful Question
 description: 'A story about one night in Oxford and Frank Wilczek's beautiful question.'
-image: ./img/birth_sun_god.jpg
+image: img/birth_sun_god.jpg
 ----
 
 # A Beautiful Question

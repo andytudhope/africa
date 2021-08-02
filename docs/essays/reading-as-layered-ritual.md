@@ -1,7 +1,7 @@
 ---
 title: Reading as Layered Ritual
 description: 'A riff on Stanley Kunitz's famous poem and what it has to teach us about humility and limitation.'
-image: ./img/reading_ritual.gif
+image: img/reading_ritual.gif
 ---
 
 # Reading As Layered Ritual

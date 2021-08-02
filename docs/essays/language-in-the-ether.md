@@ -1,7 +1,7 @@
 ---
 title: Language In The Ether
 description: 'What does it mean to have an expressive programming language, which compiles down to binary and runs on a shared computer - which is everywhere and nowhere - and which no-one owns? What kinds of metaphors are possible in such a medium? How can we engineer value and meaning for the metamodernist world?'
-image: ./img/book.jpg
+image: img/book.jpg
 ---
 
 # Language In The Ether

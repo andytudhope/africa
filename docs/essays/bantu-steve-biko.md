@@ -1,7 +1,7 @@
 ---
 title: Martyr of Hope - A Tribute to Bantu Steve Biko
 description: 'My tribute to one of the true stalwarts of the struggle against apartheid in South Africa, one of the greatest intellects to ever grace the African continent, and one of the finest human beings this world has ever seen.'
-image: ./img/steve_biko.jpg
+image: img/steve_biko.jpg
 ---
 
 # Martyr of Hope - A Tribute to Bantu Steve Biko

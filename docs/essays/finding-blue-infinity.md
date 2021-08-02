@@ -1,7 +1,7 @@
 ---
 title: Finding Blue Infinity
 description:
-image:
+image: img/de_sign.png
 ---
 
 # Finding Blue Infinity
