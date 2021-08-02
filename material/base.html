@@ -28,6 +28,11 @@
       {% elif config.site_author %}
         <meta name="author" content="{{ config.site_author }}">
       {% endif %}
+      {% if page and page.meta and page.meta.image %}
+        {% set image = config.site_url ~ page.meta.image %}
+        <meta property="og:image" content="{{ image }}">
+        <meta name="twitter:image" content="{{ image }}">
+      {% endif %}
       <link rel="shortcut icon" href="{{ config.theme.favicon | url }}">
       <meta name="generator" content="mkdocs-{{ mkdocs_version }}, mkdocs-material-5.0.1">
     {% endblock %}

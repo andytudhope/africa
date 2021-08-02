@@ -1,6 +1,8 @@
+---
 title: Blue Devotion
-
-description: This essay summarises the ideas behind, and the work done to achieve, The Blue Book. What is this digital artifact really inspired by, where did it come from, and what might it be used for going forward?
+description: 'This essay summarises the ideas behind, and the work done to achieve, The Blue Book. What is this digital artifact really inspired by, where did it come from, and what might it be used for going forward?'
+image: ./img/blue_book.jpg
+---
 
 # Blue Devotion
 

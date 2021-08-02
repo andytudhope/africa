@@ -100,18 +100,19 @@ nav:
   - Home: 'index.md'
   - Essays: 
     - 'Introduction': 'essays/index.md'
-    - 'Living': 'essays/living-essay.md'
-    - 'A Beautiful Question': 'essays/a-beautiful-question.md'
-    - 'Martyr of Hope': 'essays/bantu-steve-biko.md'
     - 'Animal’s People': 'essays/animals-people.md'
+    - 'Martyr of Hope': 'essays/bantu-steve-biko.md'
     - 'The Final Belt': 'essays/the-final-belt.md' 
     - 'Viewing Time': 'essays/viewing-time.md'
     - 'Blue Devotion': 'essays/blue-devotion.md'
+    - 'Living': 'essays/living-essay.md'
+    - 'Finding Blue Infinity': 'essays/finding-blue-infinity.md'
+    - 'A Beautiful Question': 'essays/a-beautiful-question.md'
     - 'Language In The Ether': 'essays/language-in-the-ether.md'
     - 'All The Colourful People': 'essays/colourful-people.md'
     - 'Reading As Layered Ritual': 'essays/reading-as-layered-ritual.md'
-    - 'Transformative Tools': https://kernel.community/module-3/remember/
-    - 'Running Code': https://kernel.community/module-4/consensus/
+    - 'Transformative Tools': https://kernel.community/en/learn/module-3/remember/
+    - 'Running Code': https://kernel.community/en/learn/module-4/consensus/
   - Poetry:
     - 'Overview': 'poetry/index.md'
     - 'Maryam': 'poetry/maryam.md'

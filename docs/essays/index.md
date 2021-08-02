@@ -7,46 +7,6 @@ description: An overview of all the essays written by Andy Tudhope
 
 <div markdown="1" class="card article sidebar center">
 
-**Living: The Essay**
-
-<div markdown="2" class="article-image">
-![Living](./img/ocean_fire.jpg)
-</div>
-
-<div markdown="3" class="article-para">
-“There is another reality, the genuine one, which we lose sight of. This other reality is always sending us hints which, without art, we can’t receive." — Saul Bellow
-
-I have read many books in my life, searching for this ‘other reality’ scribbled out by various authors. I sought the secret everywhere and did the most silly things in my attempt to discover a way in. Until one day I stopped.
-</div>
-
-<div markdown="3" class="link">
-[Read More](./living-essay)
-</div>
-
-</div>
-
-<div markdown="1" class="card article sidebar center">
-
-**A Beautiful Question**
-
-<div markdown="2" class="article-image">
-![A Beautiful Question](./img/keats.jpg)
-</div>
-
-<div markdown="3" class="article-para">
-One sees that Thomas is fascinated and excited to discover that reality conforms to his deepest hopes. Doubting Thomas is a hero, a happy man […] Those whose faith is not passive, but engages reality, will receive a second, more fulfilling blessing in the harmony of belief and experience.
-
-A deep and wide walk, led by Frank Wilczek, through the wonderful world of scientific symmeteries and Quantum Chromo-Dynamics.
-</div>
-
-<div markdown="3" class="link">
-[Read More](./a-beautiful-question)
-</div>
-
-</div>
-
-<div markdown="1" class="card article sidebar center">
-
 **Martyr of Hope - A Tribute to Bantu Steve Biko**
 
 <div markdown="2" class="article-image">
@@ -139,6 +99,64 @@ This essay summarises the ideas behind, and the work done to achieve, The Blue B
 
 <div markdown="1" class="card article sidebar center">
 
+**Living: The Essay**
+
+<div markdown="2" class="article-image">
+![Living](./img/ocean_fire.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+“There is another reality, the genuine one, which we lose sight of. This other reality is always sending us hints which, without art, we can’t receive." — Saul Bellow
+
+I have read many books in my life, searching for this ‘other reality’ scribbled out by various authors. I sought the secret everywhere and did the most silly things in my attempt to discover a way in. Until one day I stopped.
+</div>
+
+<div markdown="3" class="link">
+[Read More](./living-essay)
+</div>
+
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
+**Finding Blue Infinity**
+
+<div markdown="2" class="article-image">
+![Blue Devotion](./img/de_sign.png)
+</div>
+
+<div markdown="3" class="article-para">
+How to build your own book using an infinite library and non-fungible tokens that are responsible for what gets displayed, and where people are sent in amongst all these endless possibilities. 
+</div>
+
+<div markdown="3" class="link">
+[Read More](./finding-infinity)
+</div>
+
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
+**A Beautiful Question**
+
+<div markdown="2" class="article-image">
+![A Beautiful Question](./img/keats.jpg)
+</div>
+
+<div markdown="3" class="article-para">
+One sees that Thomas is fascinated and excited to discover that reality conforms to his deepest hopes. Doubting Thomas is a hero, a happy man […] Those whose faith is not passive, but engages reality, will receive a second, more fulfilling blessing in the harmony of belief and experience.
+
+A deep and wide walk, led by Frank Wilczek, through the wonderful world of scientific symmeteries and Quantum Chromo-Dynamics.
+</div>
+
+<div markdown="3" class="link">
+[Read More](./a-beautiful-question)
+</div>
+
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
 **Language In The Ether**
 
 <div markdown="2" class="article-image">
@@ -204,7 +222,7 @@ A summary of the famous IETF working paper of the same title, updated for a slig
 </div>
 
 <div markdown="3" class="link">
-<a href="https://kernel.community/module-4/consensus/" target="blank" rel="noopener noreferrer">Read More</a>
+<a href="https://kernel.community/en/learn/module-4/consensus/" target="blank" rel="noopener noreferrer">Read More</a>
 </div>
 
 </div>

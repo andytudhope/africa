@@ -1,6 +1,8 @@
+---
 title: Viewing Time
-
-description:
+description: 'The difference between information and inference and how to use the internet as the User System Engelbart described in NLS; with links between different sites as linguistic primitives for describing the ‘reality’ of a hyperconnected, modern life experience.'
+image: ./img/butterfly_hofstadter.png
+---
 
 # Viewing Time
 
