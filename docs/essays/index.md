@@ -158,6 +158,24 @@ A deep and wide walk, led by Frank Wilczek, through the wonderful world of scien
 
 <div markdown="1" class="card article sidebar center">
 
+**Governing Gracefully**
+
+<div markdown="2" class="article-image">
+![Governing Gracefully](./img/dialogue.png)
+</div>
+
+<div markdown="3" class="article-para">
+Governance mechanisms that distribute funds _by virtue of how they work_ will trump those that attempt to distribute funds as an outcome of their work.
+</div>
+
+<div markdown="3" class="link">
+[Read More](./governing-gracefully)
+</div>
+
+</div>
+
+<div markdown="1" class="card article sidebar center">
+
 **Language In The Ether**
 
 <div markdown="2" class="article-image">
