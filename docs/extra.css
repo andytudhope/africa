@@ -87,6 +87,14 @@
     margin: 0 auto;
   }
 
+  .video-frame-half {
+    display: block;
+    width: 47%;
+    margin: 0 20px 20px 0;
+    float: left;
+    height: 250px;
+  }
+
 @media (max-width: 761px) {
 
   .md-typeset h1 {
@@ -282,5 +290,11 @@
 
   .book, .home-div {
     width: 100%;
+  }
+
+  .video-frame-half {
+    float: none;
+    width: 95%;
+    height: 200px;
   }
 }

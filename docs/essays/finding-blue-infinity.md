@@ -18,7 +18,7 @@ I thought about this as I walked down an empty beach and considered the recent b
 
 > “But there is one kind of knowledge — infinitely precious, time-resistant more than monuments, here to be passed between the generations in any way it may be: never to be used. And that is poetry.”
 
-This same essential idea can be found throughout the Qur'an, most prominently - because nothing is a coincidence - in Surah Ash-Shu'ara (The Poets), see [26:127](https://quran.com/26/127), [145](https://quran.com/26/145), [164](https://quran.com/26/164), [180-1](https://quran.com/26/180-181), but also in many other places, like [6:90](https://quran.com/6/90).
+This same essential idea can be found throughout the Qur'an, most prominently - because nothing is a coincidence - in Surah Ash-Shu'ara (The Poets), see [26:127](https://quran.com/26/127), [145](https://quran.com/26/145), [164](https://quran.com/26/164), [180-1](https://quran.com/26/180-181), but also in many other places, like [25:57-59](https://quran.com/25/57-59) [6:90](https://quran.com/6/90).
 
 I will never sell a poem, because I do not write them for reward. I write them _as_ reward. That is, the simple act of writing poetry is already reward enough for me. Therefore, it never made sense to do anything on chain, as I'm just not interested in making money from poems.
 
@@ -55,14 +55,29 @@ As you can see from the links above, everything is free and open source and alwa
 
 You can find the first version of this peace of The Blue Book [here](http://finding.thebluebook.co.za).
 
-There are many more chapters to write, and the library never ends. I'll pretend to end this here by turning to another favourite poet of mine, [Lisel Mueller](https://www.poetryfoundation.org/poems/52577/monet-refuses-the-operation-56d231289e6db):
+There are many more chapters to write, and the library never ends. Only love can find the shore.
 
->  To paint the speed of light!  
-Our weighted shapes, these verticals,  
-burn to mix with air  
-and change our bones, skin, clothes  
-to gases.  Doctor,  
-if only you could see  
-how heaven pulls earth into its arms  
-and how infinitely the heart expands  
-to claim this world, blue vapor without end.  
+<iframe class="video-frame-half" src="https://www.youtube-nocookie.com/embed/m1y2aPx8CrI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<iframe class="video-frame-half" src="https://www.youtube-nocookie.com/embed/_zUjMrvrraw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+I broke a glass today  
+and we spread a table together,   
+so my bookish blood tells me  
+this is the day I am married,  
+for my soul mate has found me  
+and it's all so very simple.  
+  
+Death is the cycling  
+of eternal life  
+and now is timeless.  
+  
+Thank the others always,  
+let peaceful water flow and leave  
+here a garden for our children,  
+those playful phases of you and I   
+come back to recite these lines:  
+  
+_let there be_  
+_light._ 
