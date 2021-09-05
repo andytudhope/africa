@@ -6,6 +6,10 @@ image: essays/img/de_sign.png
 
 # Finding Blue Infinity
 
+Here it is, the heart  
+in earth, breathing heavens  
+intimately untangled.  
+
 ## Preparing the Ground
 
 I've been passing time in the stream of life teaching people about [giving](https://kernel.community/en/learn/module-7/giving/#sacrifice-scarcity). It's a good way to live.
@@ -35,6 +39,14 @@ There are some caveats to this, but the [libraryofbabel.info](https://libraryofb
 This means that every thing it is possible to write in 3200 characters using the Latin alphabet **already exists** in the library. One does not write something; one remembers it, puts the text into the library's seach function, and is reminded of where it already was. Go and try it yourself. Take that poem or diary entry or dream you once wrote and never showed anyone and try not fall out your chair when you discover it was already in there.
 
 When thinking about creative ways to engage people going through Kernel, I decided to write some ["koans"](https://kernel.community/en/koans/): cryptic little treasure hunts through the library that were based on the content in each module. You really had to understand what was being taught each week to find your way through the whole koan and win the NFT gift at the end of them. While I was doing this, I got quite excited by the effect the constraints of the medium had on my writing and began writing a bunch of other stuff, which I then put aside and promptly forgot about.
+
+
+Sufi shaykhs feed the birds  
+Zen masters play bass  
+to early morning country music.  
+  
+There is no mystery in this,  
+only life.   
 
 ## The Ceremony
 
