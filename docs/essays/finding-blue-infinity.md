@@ -40,13 +40,18 @@ This means that every thing it is possible to write in 3200 characters using the
 
 When thinking about creative ways to engage people going through Kernel, I decided to write some ["koans"](https://kernel.community/en/koans/): cryptic little treasure hunts through the library that were based on the content in each module. You really had to understand what was being taught each week to find your way through the whole koan and win the NFT gift at the end of them. While I was doing this, I got quite excited by the effect the constraints of the medium had on my writing and began writing a bunch of other stuff, which I then put aside and promptly forgot about.
 
-
 Sufi shaykhs feed the birds  
 Zen masters play bass  
 to early morning country music.  
   
-There is no mystery in this,  
+There is no mystery in this  
 only life.   
+  
+Need is just  
+to be given away  
+so, in humility, I come  
+to know the unspeakable  
+glory.  
 
 ## The Ceremony
 
