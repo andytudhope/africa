@@ -6,7 +6,7 @@ What was said on [Beams](../beams) applies equally here. Please stop for a momen
 
 If you know what it is, please do _wudu_ and consider reading <a href="https://quran.com/56/57-96" target="_blank" rel="noopener noreferrer">this section of the Qur'an</a> before scrolling down the page.
 
-<img src="/overrides/images/gallery/thumbs/shahada.jpg" class="center-img" />
+<img src="/assets/images/shahada.jpg" class="center-img" />
 
 ---
 
