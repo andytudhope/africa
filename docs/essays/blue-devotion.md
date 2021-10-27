@@ -28,7 +28,7 @@ _GEB_ is way too dense to summarise here, but this is a crucial point. Books enc
 
 ## Applied Writing
 
-Following Tolkien, digital books need to be _applicable to the context_they’re in: which is hypertextual and constantly connected. In fact, it is – if anything – overly connected. If the art of good storytelling has to do with what you leave out, then how can anyone possibly tell a story about what the _internet really is_ and what new zones of consciousness it might allow us to explore collaboratively? There is simply too much you have to ignore.
+Following Tolkien, digital books need to be _applicable to the context_ they’re in: which is hypertextual and constantly connected. In fact, it is – if anything – overly connected. If the art of good storytelling has to do with what you leave out, then how can anyone possibly tell a story about what the _internet really is_ and what new zones of consciousness it might allow us to explore collaboratively? There is simply too much you have to ignore.
 
 Certainly this is true in the context of a traditional book, but what happens if we take the lessons of Hofstadter and Tolkien, and try and come up with a **form** which allows for more expansive[ story-telling](https://thebluebook.co.za/fugue-i/)? If there were a book that was also an[ open-source piece of software](https://github.com/andytudhope/proofoflove), that anyone could download and adapt free of charge, then not only would that book exist hypertextually, linking to what it cannot say, but anyone could replicate its form (easily and for free) to tell their own story about everything to which they’re connected.
 
