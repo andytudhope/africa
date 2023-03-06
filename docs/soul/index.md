@@ -2,11 +2,11 @@
 title: Soul Pearls
 ---
 
-Metaphor is the ultimate transformational grammar. It comes from the Greek word "_meta_", meaning 'beyond' and "_pherein_", meaning to transfer or carry. It is the linguistic structure that carries meaning beyond what language is meant to hold. 
+Metaphor is the ultimate transformational grammar. It comes from the Greek word "_meta_", meaning 'beyond' and "_pherein_", meaning to transfer or carry. It is the linguistic structure that carries meaning beyond what language is meant to hold. That said, in certain contexts, "_meta_" can all mean 'with' or 'among'. That is, rather than beyond, it could mean something more like 'between'.
 
-What, then, is the final metaphor; the last transformational linguistic bridge which will bear us into a peace beyond any particular understanding?
+What, then, is the final metaphor; the last transformational linguistic bridge which will bear us beyond into a peace between any particular understanding?
 
-You may think that it is God, Allah, Jahweh, Allaha, or Dao. However, all of these words simply point at the unnameable essence which grounds all language, meaning, music, and being. Properly speaking, such words are not metaphors: they are the ultimate negation of metaphor. They reveal only the insufficiency of words and notes; our inability to ever say or play what truly is. The totality cannot be told.
+Historical answers include God, Allah, Jahweh, Allaha, or Dao. However, all of these words simply point at the unnameable essence which grounds all language, meaning, music, and being. Properly speaking, such words are not metaphors: they are the ultimate negation of metaphor. They reveal only the insufficiency of words and notes; our inability to ever say or play what truly is. The totality cannot be told.
 
 Why say anything then? If our metaphors - no matter how beautiful or how close they might come to truth - will always be negated by this featureless "black hole" which is the foundation of the House of God, what is the point of any speech? Well, for me, this points at the very heart of the ambiguity which is called _human spirit_; this holy breath which holds us.
 

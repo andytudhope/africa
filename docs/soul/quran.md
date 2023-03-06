@@ -31,7 +31,11 @@ _Visankharagatam cittam_
 _Tanhanam khayam ajjhaga_  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The cravings have come to an end.  
 
-Please complete _wudu_ before reading this. Alternatively, stop here, close your eyes and focus on your breath. Allow yourself to sink into the silence between each impulse. Let your attention return to its seat in your heart. What follows is about reflecting (on) Truth.
+Please complete _wudu_ before reading this. Alternatively, stop here, close your eyes and focus on your breath. Allow yourself to sink into the silence between each impulse. Let your attention return to its seat in your heart.
+
+One word about the name "Allah". _Al_ is the definite article in Arabic, meaning 'the'. _Lah_ is senseless: it has no meaning. It is, in some fundamental manner, the empty-form-formless-emptiness found in the heart Sutra; the word that is God in the Gospel of John; the being that appears to the gods in the Kena Upanishad, whom Uma - Divine Wisdom - calls "tadvanam". When we say "Allahu akhbar", we are saying "God is **greater**". Not great (a thing) or greatest (a degree of comparison), but great*er*. Always greater than anything you can think or imagine; neither empty nor formless (nor both, nor neither); a word without tense that is the source of time; that which is adored above any thing and annihilates the longing of true love.
+
+This is not to elide the important historical distinctions between these traditions, to obscure the differences in their practice, or to ignore the impact (positive and negative) they continue to have on people. It is something more like a plea to see beyond the word and into the nature of limitation itself.
 
 ---
 

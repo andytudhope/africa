@@ -78,6 +78,7 @@ There are many more chapters to write, and the library never ends. Only love can
 
 
 <iframe class="video-frame-half" src="https://www.youtube-nocookie.com/embed/_zUjMrvrraw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  &nbsp;&nbsp;
   
 I broke a glass today  
 and we spread a table together,   

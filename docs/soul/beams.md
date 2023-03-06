@@ -2,7 +2,7 @@
 title: Beams
 ---
 
-All of these aphorisms have been selected from <a href="https://sfhfoundation.com/" target="_blank">Shaykh Fadhlalla Haeri's</a> treasure trove of a book, <a href="https://www.amazon.com/Spectrum-Reality-Shaykh-Fadhlalla-Haeri/dp/1919826955" target="_blank">Spectrum of Reality</a>. These "Beams" come from the body of text on each page, while the "Bursts" are selected pieces from the aphorisms highlighted at the bottom of each page.
+All of these aphorisms have been selected from <a href="https://www.amazon.com/Spectrum-Reality-Shaykh-Fadhlalla-Haeri/dp/1919826955" target="_blank">Spectrum of Reality</a>, by <a href="https://shaykhfadhlallahaeri.com/" target="_blank">Shaykh Fadhlalla Haeri's</a>. These "Beams" come from the body of text on each page, while the "Bursts" are selected pieces from the aphorisms highlighted at the bottom of each page.
 
 Though nothing has been added, and his words are presented here as he wrote them, I have carefully ordered them to draw out some specific threads which touched my heart. This act of curation takes on many dimensions in the digital world, because our words are - in a sense - only given meaning by that which they leave out, just as music is made meaningful only by the silence which punctuates each note. When you leave out essentially the entire internet, the few pearls you do select take on far more gravity when parsed by an empty mind and a pure heart.
 

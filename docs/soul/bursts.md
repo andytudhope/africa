@@ -4,8 +4,6 @@ title: Bursts
 
 What was said on [Beams](../beams) applies equally here. Please stop for a moment and focus on your breath. Allow yourself to sink into the silence between each impulse. Let your attention return to its seat in your heart. 
 
-If you know what it is, please do _wudu_ and consider reading <a href="https://quran.com/56/57-96" target="_blank" rel="noopener noreferrer">this section of the Qur'an</a> before scrolling down the page.
-
 <img src="/assets/images/shahada.jpg" class="center-img" />
 
 ---
