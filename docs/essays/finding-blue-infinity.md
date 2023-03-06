@@ -63,7 +63,7 @@ And, the truth is, it turns out to be simple.
 2. I adapted it to let [Guardians update](https://github.com/andytudhope/finding-the-blue-book/blob/main/contracts/ERC721Tradable.sol#L68) the `tokenURI` which stores the metadata for each NFT.
 3. I use this contract to mint Guardian NFTs and give them to people I love.
 4. I set the `external_url` in the metadata of those NFTs to an Arweave page where I have uploaded the html file.
-5. I use the OpenseaAPI and a tiny bit of jQuery to fetch the metadata associated with each NFT, query the `external_url` and replace the html content on each chapter page with whatever comes back. It currently takes [14 lines of code](https://github.com/andytudhope/finding-the-blue-book/blob/gh-pages/assets/js/main.js) to do this.
+5. I use the Alchemy API and a tiny bit of jQuery to fetch the metadata associated with each NFT, query the `external_url` and replace the html content on each chapter page with whatever comes back. It takes [6 lines of code per token](https://github.com/andytudhope/finding-the-blue-book/blob/gh-pages/assets/js/main.js) to do this.
 6. Guardians are therefore entirely in control of what gets displayed for their chapter and can change it by using the `updateTokenURI` method in the [Guardians.sol contract](https://etherscan.io/address/0xeB3fC95B74C79C2c3469188A72df2c2399D752AB#writeContract).
 
 As you can see from the links above, everything is free and open source and always will be. Please take this, improve on it, and do more creative things if you feel inspired.

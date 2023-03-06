@@ -1,5 +1,5 @@
 ---
-title: Divan Laughter
+title: Encouraging Heart
 ---
 
 # Encouraging Heart
