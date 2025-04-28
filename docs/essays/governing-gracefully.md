@@ -20,7 +20,7 @@ Where we actually want to end up.
 
 ## Some History
 
-I wrote the [DApp curation mechanism](https://our.status.im/discover-a-brave-new-curve/) for Status, [dap.ps](https://dap.ps). It’s very simple: the more tokens you lock in a contract, the higher you rank, with one caveat. The more you pay to rank, the cheaper it is for others to vote on your content. This means users have to pay to vote: when I upvote, the money is also locked in the contract and added to the ranking; when I downvote, the money is sent straight back to the DApp owner and subtracted from their ranking.
+I wrote the [DApp curation mechanism](https://observablehq.com/@andytudhope/embedded-discover) for Status. It’s very simple: the more tokens you lock in a contract, the higher you rank, with one caveat. The more you pay to rank, the cheaper it is for others to vote on your content. This means users have to pay to vote: when I upvote, the money is also locked in the contract and added to the ranking; when I downvote, the money is sent straight back to the DApp owner and subtracted from their ranking.
 
 At first blush, it may seem strange, especially since SNT is a MiniMe token, a standard designed specifically so people could vote without having to lock their tokens (a common pattern in the early days). There are two common issues people have with my design:
 

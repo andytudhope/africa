@@ -100,6 +100,7 @@ nav:
   - Home: 'index.md'
   - Essays: 
     - 'Introduction': 'essays/index.md'
+    - 'Slow Signs': 'essays/slow-signs.md'
     - 'Animal’s People': 'essays/animals-people.md'
     - 'Martyr of Hope': 'essays/bantu-steve-biko.md'
     - 'The Final Belt': 'essays/the-final-belt.md' 
