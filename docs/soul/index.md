@@ -2,7 +2,7 @@
 title: Soul Pearls
 ---
 
-Metaphor is the ultimate transformational grammar. It comes from the Greek word "_meta_", meaning 'beyond' and "_pherein_", meaning to transfer or carry. It is the linguistic structure that carries meaning beyond what language is meant to hold. That said, in certain contexts, "_meta_" can all mean 'with' or 'among'. That is, rather than beyond, it could mean something more like 'between'.
+Metaphor is the ultimate transformational grammar. It comes from the Greek word "_meta_", meaning 'beyond' and "_pherein_", meaning to transfer or carry. It is the linguistic structure that carries meaning beyond what language is meant to hold. That said, in certain contexts, "_meta_" can also mean 'with' or 'among'. That is, rather than beyond, it could mean something more like 'between'.
 
 What, then, is the final metaphor; the last transformational linguistic bridge which will bear us beyond into a peace between any particular understanding?
 
