@@ -8,6 +8,9 @@ export const metadata: Metadata = {
   title: "A Simple Path",
   description: "Nothing could enter it but the sincere act",
   authors: [{ name: "Andy Tudhope" }],
+  icons: {
+    icon: '/images/favicon.png',
+  },
   openGraph: {
     type: "website",
     title: "The Sincere Path",
