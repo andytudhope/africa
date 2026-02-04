@@ -1,0 +1,29 @@
+{
+  "title": "Academic Work",
+  "items": [
+    {
+      "order": 1,
+      "sidebarTitle": "Playing With Time",
+      "title": "Playing With Time: Milton's Satan, Similes, and Subversion",
+      "description": "A Research Essay written in October 2012 at Rhodes University about the tragic figure of Satan in Paradise Lost.",
+      "image": "/images/academy/tat_tvam_asi.jpg",
+      "href": "/academy/playing-with-time"
+    },
+    {
+      "order": 2,
+      "sidebarTitle": "Communal Language",
+      "title": "A New Community: the Language of Morrison and Mpe",
+      "description": "This essay attempts to reinscribe the most ancient and important feature at the heart of any language - the community which gives it meaning.",
+      "image": "/images/academy/morrison.jpg",
+      "href": "/academy/communal-language"
+    },
+    {
+      "order": 3,
+      "sidebarTitle": "Yours Sincerely",
+      "title": "Yours Sincerely: Truth, Singularity, and Ontological Designing",
+      "description": "A Master of Studies thesis for Oxford University in the field of World Literatures in English, written in 2014/5.",
+      "image": "/images/academy/argument_for_happiness.png",
+      "href": "/academy/yours-sincerely"
+    }
+  ]
+}

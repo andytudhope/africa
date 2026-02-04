@@ -1,0 +1,35 @@
+{
+  "title": "Soul",
+  "items": [
+    {
+      "order": 1,
+      "sidebarTitle": "Encouraging Heart",
+      "title": "Encouraging Heart",
+      "href": "/soul/encouragement"
+    },
+    {
+      "order": 2,
+      "sidebarTitle": "Beams",
+      "title": "Beams",
+      "href": "/soul/beams"
+    },
+    {
+      "order": 3,
+      "sidebarTitle": "Bursts",
+      "title": "Bursts",
+      "href": "/soul/bursts"
+    },
+    {
+      "order": 4,
+      "sidebarTitle": "Laughter",
+      "title": "Laughter",
+      "href": "/soul/divan-laughter"
+    },
+    {
+      "order": 5,
+      "sidebarTitle": "Qur'an",
+      "title": "Qur'an",
+      "href": "/soul/quran"
+    }
+  ]
+}

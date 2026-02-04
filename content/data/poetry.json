@@ -1,0 +1,69 @@
+{
+  "title": "Poetry",
+  "items": [
+    {
+      "order": 1,
+      "sidebarTitle": "Maryam",
+      "title": "Maryam",
+      "description": "",
+      "image": "/images/poetry/mary_oliver.jpg",
+      "href": "/poetry/maryam"
+    },
+    {
+      "order": 2,
+      "sidebarTitle": "Steel Jasmine",
+      "title": "Steel Jasmine",
+      "description": "",
+      "image": "/images/poetry/jasmine.jpg",
+      "href": "/poetry/steel-jasmine"
+    },
+    {
+      "order": 3,
+      "sidebarTitle": "Spring Free",
+      "title": "Spring Free",
+      "description": "",
+      "image": "/images/poetry/spring_tide.jpg",
+      "href": "/poetry/spring-free"
+    },
+    {
+      "order": 4,
+      "sidebarTitle": "Falcon Heavy",
+      "title": "Falcon Heavy",
+      "description": "",
+      "image": "/images/poetry/falcon_heavy.jpg",
+      "href": "/poetry/falcon-heavy"
+    },
+    {
+      "order": 5,
+      "sidebarTitle": "Dancing Signs",
+      "title": "Dancing Signs",
+      "description": "",
+      "image": "/images/poetry/dancing-signs.jpg",
+      "href": "/poetry/dancing-signs"
+    },
+    {
+      "order": 6,
+      "sidebarTitle": "The Covenant",
+      "title": "The Covenant",
+      "description": "",
+      "image": "/images/poetry/covenant.jpg",
+      "href": "/poetry/covenant"
+    },
+    {
+      "order": 7,
+      "sidebarTitle": "Still Life",
+      "title": "Still Life",
+      "description": "",
+      "image": "/images/poetry/still-life.jpg",
+      "href": "/poetry/still-life"
+    },
+    {
+      "order": 8,
+      "sidebarTitle": "Basirah",
+      "title": "Basirah",
+      "description": "",
+      "image": "/images/poetry/only-one.jpg",
+      "href": "/poetry/basirah"
+    }
+  ]
+}
