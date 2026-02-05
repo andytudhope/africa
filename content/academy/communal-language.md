@@ -92,7 +92,7 @@ The musicality we find in such instances is genuinely notable. It serves as the 
 
 We cannot understand the “ritual chant of possession” (Krumholz 117) above in and of itself – it must be understood by interacting with the text as a whole so that much more than a mere story gets passed on. What should be passed on is an understanding of both what the story says and what it cannot say because this is **what it means to use language in a non-exclusionary fashion**.
 
-### Love This Sound
+## Love This Sound
 
 The very structure of language cannot withstand the attempt to interiorise Beloved. As the narrator says, “the leaves are not for her   she fills the basket   she opens the grass” (_Beloved_ 248) and, in some of the more experimental moments of the novel we get this almost unintelligible, though deeply haunting, lyricism. The point is that we cannot even understand such lyrical writing, and thus Beloved, through “Negative Capability”. Morrison is showing us the inability of language to express appropriately certain pivotal experiences, such as the Middle Passage, which are, quite literally, unspeakable. Therefore, she draws on traditional, oral notions of call-and-response in an attempt to arc toward some valid meaning beyond the confines of a language that both oppresses and is oppressed by individual history. Perhaps it is only communally that we can understand certain things? This communal understanding, far from accepting contradictions as a necessary part of seeing the beauty behind, exceeds the contradictions imposed by language entirely. For instance, when Ella and the women of the community approach 124 to intervene as Sethe is held in thrall to Beloved, they move beyond mere words:   
 
@@ -231,17 +231,13 @@ This is not to say that the individual must be entirely done away with, she must
 
 Language put in service of expressing our **unicity** is exactly that which can make the definitions of community as malleable as the meanings of words. The clue is in the language itself[^24]: “unicity” means both ‘the fact or quality of being unique’, _and_ ‘the fact of being or consisting of one, **or of being united as a whole**’. Barondes' words emphasise that the individual should not be entirely forgotten, lest we wish to lose the creativity that inspired Shakespeare, Milton, Marlowe, Morrison, Melville and Mpe to write what they did in the first place.
 
-### Consilience
+## Consilience
 
 Arguably the most important moment in _Welcome to Our Hillbrow_ occurs when Refilwe finally approaches “the-stranger-who-is-not-a-stranger [in] Jude the Obscure” (Mpe 109-10).[^25] The moment is narrated thus: “She did come closer. She dared to start a conversation. She complicated her life” (111). Mpe shows us that no stranger is truly and absolutely strange to us. Such understanding is not necessarily straightforward, but we must complicate our lives if we are to ever overcome the simplistic, authoritative, oppositional and individualised discourses which seem to dominate modern thought. Furthermore, Mpe’s intertextual references to texts like Thomas Hardy’s _Jude the Obscure_ and Zakes Mda’s _Ways of Dying_ (109) are yet another way in which he invokes a sense of community that extends beyond the confines of his own text. Just as he extends the idea of text beyond his own work with such references, Mpe makes us see that “Tiragalong was in Hillbrow” (49) or “in Johannesburg” (79) or indeed that “Hillbrow” (2), “Alexandra” (79), “Johannesburg” (79), “England” (97), “All” (104), “Humanity” (113), and “Heaven” (124) are, ultimately, **one and the same thing**. We just need to use language in a way which reflects this fact.
 
 Schopenhauer’s will is “independent of all knowledge” (7), Shakespeare shows us that “There are more things in heaven and earth […]/ Than are dreamt of in our philosophy” (_Hamlet_, I, v.174-5), Morrison writes of an indeterminate “sound” (_Beloved_ 305) which existed before words and is common to all, and Mpe highlights the power arbitrary definitions have to enclose or extend communities. All are after some unnameable _thing_ which unites humanity beyond the bounds of definition. However, precisely because it is beyond arbitrary definitions based on context, because definition is the one and only thing it lacks, it must finally escape ‘my’ power to enunciate fully.
 
 Herein lies the beauty, and the frustration, of this conception of language: we can only ever strive to “come closer. [We can only ever] dare to start a conversation” (Mpe 111), never knowing what the outcome will be. Language complicates our lives – it excludes far more easily than it includes and primes[^26] us for stories which perpetuate authoritative, individualised discourse. However, it is also the **possibility** that such complication allows for, of which Morrison and Mpe’s lyrical passages are exemplary, that is most relevant to a 'new language'. The real key is in seeing this complication as the ultimate simplicity: we need only use our words in a way which consciously points at that which gives them meaning - the community who interprets us. Nothing is hidden, it's all noted right here between us, so “Know it [and] go on out the yard” (_Beloved_ 286).
-
-## If You're Lost...
-
-<iframe class="comm-lang" src="https://www.youtube-nocookie.com/embed/628eVJgHD6I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Works Cited
 

@@ -31,7 +31,7 @@ There is no ordinariness to return to, no refuge from the blind potency of thing
 
 Compulsion and revelation have more in common that we think.
 
-Here lies the catastrophe of grace and a kabbalist who believes in the power of incantation. A singer of a dark language to match the music, now returned, of a distant harp played by a pilgrim outside the gates to a new city. Still in the early morning and full of strange smells. Beckoning.
+Here lies the eucatastrophe of grace and a kabbalist who believes in the power of incantation. A singer of a dark language to match the music, now returned, of a distant harp played by a pilgrim outside the gates to a new city. Still in the early morning and full of strange smells. Beckoning.
 
 Lucid torture and utter freedom, sealed like salt and skin with the recipe for honey cake, passed on in secret through the rivers of you.
 
