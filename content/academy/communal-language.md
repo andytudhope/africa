@@ -11,6 +11,8 @@ Honours in English Literature
 February 14 2013  
 Words: 10101  
 
+> If one wishes to promote the life of language, one must promote the life of the community—a discipline many times more trying, difficult, and long than that of linguistics, but having at least the virtue of hopefulness. It escapes the despair always implicit in specializations: the cultivation of discrete parts without respect on responsibility for the whole. - Wendell Berry
+
 ## Shared Meaning
 
 Once, we were warriors, and we wrote a group research essay on the South African writer Ivan Vladislavić, entitled “Imagining the ‘Unimaginable Latitudes’”. In the course of that work, it became apparent that the attempt to imagine “the unimaginable” (Vladislavić 13); or Orpheus’s attempt to gaze on Eurydice; or any attempt to quantify exactly what the scarlet letter; or the phantasmal, iconic, Moby-Dick; or what Kurtz’s final, horrific words **mean** must suffer from the same difficulties as those pointed at in what follows. Therefore, the primary focus of this supposedly individual essay is rather that most ancient and important _feature_ of unimaginable words: the community which give them meaning.[^1] Language which reflects communal meaning - and community which employs self-reflexive language consciously - requires **immersion**, along with recognition of all participants as valid members in a matrix of belonging, in order for any utterance to be  understandable.  
