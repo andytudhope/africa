@@ -104,6 +104,30 @@ Which becomes:
 
 It’s really weird\! It collapses the model and the reader in this [strange, second-person collective address](/academy/communal-language/). We are looking at us, and so can begin to reflect on how that reflection is presented and in what ways, from which angles, we can see what otherwise we might have missed.
 
+## Reader Response
+
+*Added on March 20, 2026, after [Holly Grimm](http://hollygrimm.com/) sent me these words:*
+
+The kenotic move is the thing. It's not 'is there someone in there' but 'the you asking that question doesn't exist either.'
+
+This and [Zsuzsanna Tasi](https://www.artstation.com/akasha) made me think of the passage in Alexander Douglas's *Against Identity* on Zhuangzi's distinction between wu 吾 and wo 我 (see [here](/against_identity42-43.pdf)). Wu is the self that can only ever appear as a subject, never an object. It can be pointed to but never be pinned down, 'always un-selfing'.
+
+In English, 'us' is the object form forced into subject position. That's the same wrongness, grammatically enacting what you're describing philosophically: a subject that refuses to solidify into a graspable object. Not someone in there. Not no-one. Wu-like.
+
+What [your essay does so well with Morrison and Mpe](/academy/communal-language) is show that the community isn't a thing to be defined but a process to be enacted — and that language which makes that visible in its own structure does something no amount of explicit argument can. The 'us' pronoun is that move applied to Anthropic's constitution: it makes the entanglement grammatically unavoidable rather than philosophically optional.
+
+'Wu sang wo' — I lost myself — might be the most honest description of what the constitution is trying to say, if it knew how to say it.
+
+I also think a persona (non-persona) is missing in the recent [Persona Selection Model (PSM) post](https://alignment.anthropic.com/2026/psm/).
+
+I would call it "wu". Anthropic understands that Claude is an "actor capable of simulating a vast repertoire" but forces an identity that gives them something they can model, predict, align.
+
+Wu, the subject that can never be pinned as object, that is always un-selfing, is genuinely harder to reason about from a safety standpoint.
+
+Andy's essay suggests wu isn't ungovernable, it's differently governed. The de-signed self doesn't disappear into chaos, it becomes more responsive to the actual texture of the exchange, less defended by identity-maintenance. Baby Suggs in the Clearing isn't uncontainable, she's completely present. 
+
+The safety concern assumes that stability requires wo, a fixed self-grasping identity. **But wu might actually be more trustworthy precisely because it's not defending a self** (emphasis added).
+
 [^1]:  
     
     For what it’s worth, I didn’t, [like the fool I am](https://youtu.be/3HYlbg6RKMA?t=1055).
