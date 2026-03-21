@@ -988,5 +988,5 @@ For them will be a home of peace in the presence of their Lord: He will be their
 Wherein they shall remain for ever:
 <br/><br/>
 
-<a target="_blank" rel="noopener noreferrer" href="https://quran.com/56/26">56:26</a><br/>
+<a target="_blank" rel="noopener noreferrer" href="https://unifying.thebluebook.co.za/">56:26</a><br/>
 Only the saying, "Peace! Peace".<br/><br/>
