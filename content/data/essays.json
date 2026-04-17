@@ -27,6 +27,14 @@
     },
     {
       "order": 4,
+      "sidebarTitle": "Sanctification",
+      "title": "Sanctification",
+      "description": "What are sanctuaries, and which monsters must we touch to claim sanctuary?",
+      "image": "/images/essays/prism_ship.png",
+      "href": "/essays/sanctification"
+    },
+    {
+      "order": 5,
       "sidebarTitle": "Martyr of Hope",
       "title": "Martyr of Hope - A Tribute to Bantu Steve Biko",
       "description": "My tribute to one of the true stalwarts of the struggle against apartheid in South Africa, one of the greatest intellects to ever grace the African continent.",
@@ -34,7 +42,7 @@
       "href": "/essays/bantu-steve-biko"
     },
     {
-      "order": 5,
+      "order": 6,
       "sidebarTitle": "The Final Belt",
       "title": "The Final Belt",
       "description": "A true story about a Two Row Wampum Council meeting in which the Black Wampum Belt was shown for the first time in this Great Year.",
@@ -42,7 +50,7 @@
       "href": "/essays/the-final-belt"
     },
     {
-      "order": 6,
+      "order": 7,
       "sidebarTitle": "Viewing Time",
       "title": "Viewing Time",
       "description": "By drawing a clear distinction between reality, and what we know about reality, this essay makes an argument for how to think about, describe and experience time differently.",
@@ -50,7 +58,7 @@
       "href": "/essays/viewing-time"
     },
     {
-      "order": 7,
+      "order": 8,
       "sidebarTitle": "Blue Devotion",
       "title": "Blue Devotion",
       "description": "This essay summarises the ideas behind, and the work done to achieve, The Blue Book. What is this digital artifact really inspired by?",
@@ -58,7 +66,7 @@
       "href": "/essays/blue-devotion"
     },
     {
-      "order": 8,
+      "order": 9,
       "sidebarTitle": "Living",
       "title": "Living: The Essay",
       "description": "There is another reality, the genuine one, which we lose sight of. This other reality is always sending us hints which, without art, we can't receive.",
@@ -66,7 +74,7 @@
       "href": "/essays/living-essay"
     },
     {
-      "order": 9,
+      "order": 10,
       "sidebarTitle": "Finding Blue Infinity",
       "title": "Finding Blue Infinity",
       "description": "How to build your own book using an infinite library and non-fungible tokens that are responsible for what gets displayed.",
@@ -74,7 +82,7 @@
       "href": "/essays/finding-blue-infinity"
     },
     {
-      "order": 10,
+      "order": 11,
       "sidebarTitle": "A Beautiful Question",
       "title": "A Beautiful Question",
       "description": "A deep and wide walk, led by Frank Wilczek, through the wonderful world of scientific symmetries and Quantum Chromo-Dynamics.",
@@ -82,7 +90,7 @@
       "href": "/essays/a-beautiful-question"
     },
     {
-      "order": 11,
+      "order": 12,
       "sidebarTitle": "Privacy",
       "title": "What is Privacy",
       "description": "A wanderer's view on an issue critical to our age",
@@ -90,7 +98,7 @@
       "href": "/essays/privacy"
     },
     {
-      "order": 12,
+      "order": 13,
       "sidebarTitle": "Governing Gracefully",
       "title": "Governing Gracefully",
       "description": "Governance mechanisms that distribute funds by virtue of how they work will trump those that attempt to distribute funds as an outcome of their work.",
@@ -98,7 +106,7 @@
       "href": "/essays/governing-gracefully"
     },
     {
-      "order": 13,
+      "order": 14,
       "sidebarTitle": "Language In The Ether",
       "title": "Language In The Ether",
       "description": "What does it mean to have an expressive programming language, which compiles down to binary and runs on a shared world computer?",
@@ -106,7 +114,7 @@
       "href": "/essays/language-in-the-ether"
     },
     {
-      "order": 14,
+      "order": 15,
       "sidebarTitle": "All The Colourful People",
       "title": "All The Colourful People",
       "description": "An essay which discusses colourful and grey people, and how to stand beside one another in such a way that we can help the other turn to face the light.",
@@ -114,7 +122,7 @@
       "href": "/essays/colourful-people"
     },
     {
-      "order": 15,
+      "order": 16,
       "sidebarTitle": "Reading As Layered Ritual",
       "title": "Reading As Layered Ritual",
       "description": "An exposition of Stanley Kunitz's famous poem, 'The Layers' which goes into the art of deciphering and the many layers of self and text.",
@@ -122,7 +130,7 @@
       "href": "/essays/reading-as-layered-ritual"
     },
     {
-      "order": 16,
+      "order": 17,
       "sidebarTitle": "Transformative Tools",
       "title": "Transformative Tools",
       "description": "A piece about memory and what it might mean to transform the very tools we use to learn and live.",

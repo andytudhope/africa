@@ -4,9 +4,20 @@ import matter from 'gray-matter';
 import { remark } from 'remark';
 import html from 'remark-html';
 import gfm from 'remark-gfm';
+import { addHeadingIds } from './headingIds';
 import { Post, PostMeta, Section, SECTIONS } from '@/types';
 
 const contentDirectory = path.join(process.cwd(), 'content');
+
+async function markdownToHtml(content: string): Promise<string> {
+  const processedHtml = await remark()
+    .use(gfm)
+    .use(addHeadingIds)
+    .use(html, { sanitize: false })
+    .process(content);
+
+  return processedHtml.toString();
+}
 
 // Process markdown inside <div markdown="1"> tags (MkDocs convention)
 async function processMarkdownDivs(content: string): Promise<string> {
@@ -16,14 +27,10 @@ async function processMarkdownDivs(content: string): Promise<string> {
   let result = content;
   for (const match of matches) {
     const [fullMatch, className, innerContent] = match;
-    // Process the inner markdown content
-    const processed = await remark()
-      .use(gfm)
-      .use(html, { sanitize: false })
-      .process(innerContent.trim());
+    const processed = await markdownToHtml(innerContent.trim());
 
     // Replace with processed HTML inside the div (without markdown="1")
-    const replacement = `<div class="${className}">${processed.toString()}</div>`;
+    const replacement = `<div class="${className}">${processed}</div>`;
     result = result.replace(fullMatch, replacement);
   }
 
@@ -96,10 +103,7 @@ export async function getPost(section: Section, slug: string): Promise<Post | nu
   // Process markdown inside <div markdown="1"> tags first
   processedContent = await processMarkdownDivs(processedContent);
 
-  const processedHtml = await remark()
-    .use(gfm)
-    .use(html, { sanitize: false })
-    .process(processedContent);
+  const processedHtml = await markdownToHtml(processedContent);
 
   return {
     title: data.title || slug,
@@ -107,7 +111,7 @@ export async function getPost(section: Section, slug: string): Promise<Post | nu
     image: data.image,
     slug,
     section,
-    content: processedHtml.toString(),
+    content: processedHtml,
   };
 }
 
@@ -129,15 +133,12 @@ export async function getSectionIndex(section: Section): Promise<{ content: stri
   // Process markdown inside <div markdown="1"> tags first
   processedContent = await processMarkdownDivs(processedContent);
 
-  const processedHtml = await remark()
-    .use(gfm)
-    .use(html, { sanitize: false })
-    .process(processedContent);
+  const processedHtml = await markdownToHtml(processedContent);
 
   return {
     title: data.title || section,
     description: data.description,
-    content: processedHtml.toString(),
+    content: processedHtml,
   };
 }
 

@@ -1,6 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
+import { getUniqueHeadingId } from '@/lib/headingIds';
 
 interface TocItem {
   id: string;
@@ -23,13 +24,16 @@ export default function TableOfContents({ content }: TableOfContentsProps) {
     const headingElements = doc.querySelectorAll('h1, h2, h3');
 
     const items: TocItem[] = [];
+    const counts = new Map<string, number>();
     headingElements.forEach((heading, index) => {
       const text = heading.textContent || '';
-      // Create ID from heading text
-      const id = text
-        .toLowerCase()
-        .replace(/[^a-z0-9]+/g, '-')
-        .replace(/(^-|-$)/g, '') || `heading-${index}`;
+      let id = heading.getAttribute('id');
+
+      if (id) {
+        counts.set(id, (counts.get(id) ?? 0) + 1);
+      } else {
+        id = getUniqueHeadingId(text, counts, `heading-${index}`);
+      }
 
       items.push({
         id,
@@ -42,15 +46,16 @@ export default function TableOfContents({ content }: TableOfContentsProps) {
   }, [content]);
 
   useEffect(() => {
-    // Add IDs to actual headings in the DOM
+    // Backfill IDs for any legacy content that was rendered without them.
     const articleHeadings = document.querySelectorAll('article h1, article h2, article h3');
+    const counts = new Map<string, number>();
     articleHeadings.forEach((heading, index) => {
-      const text = heading.textContent || '';
-      const id = text
-        .toLowerCase()
-        .replace(/[^a-z0-9]+/g, '-')
-        .replace(/(^-|-$)/g, '') || `heading-${index}`;
-      heading.id = id;
+      if (!heading.id) {
+        const text = heading.textContent || '';
+        heading.id = getUniqueHeadingId(text, counts, `heading-${index}`);
+      } else {
+        counts.set(heading.id, (counts.get(heading.id) ?? 0) + 1);
+      }
     });
 
     // Set up intersection observer for active heading
@@ -97,6 +102,7 @@ export default function TableOfContents({ content }: TableOfContentsProps) {
                 e.preventDefault();
                 const element = document.getElementById(heading.id);
                 if (element) {
+                  window.history.pushState(null, '', `#${heading.id}`);
                   element.scrollIntoView({ behavior: 'smooth' });
                   setActiveId(heading.id);
                 }

@@ -2,10 +2,7 @@ import { notFound } from 'next/navigation';
 import fs from 'fs';
 import path from 'path';
 import Link from 'next/link';
-import matter from 'gray-matter';
-import { remark } from 'remark';
-import html from 'remark-html';
-import gfm from 'remark-gfm';
+import { getSectionIndex } from '@/lib/content';
 import { SECTIONS, Section } from '@/types';
 
 interface SectionPageProps {
@@ -29,11 +26,6 @@ interface SectionData {
   items: SectionItem[];
 }
 
-interface MarkdownData {
-  title: string;
-  content: string;
-}
-
 export async function generateStaticParams() {
   return SECTIONS.map((section) => ({
     section,
@@ -49,25 +41,6 @@ function getSectionData(section: Section): SectionData | null {
   return JSON.parse(fileContents);
 }
 
-async function getMarkdownContent(section: Section): Promise<MarkdownData | null> {
-  const mdPath = path.join(process.cwd(), 'content', section, 'index.md');
-
-  if (!fs.existsSync(mdPath)) return null;
-
-  const fileContents = fs.readFileSync(mdPath, 'utf8');
-  const { data, content } = matter(fileContents);
-
-  const processedContent = await remark()
-    .use(gfm)
-    .use(html, { sanitize: false })
-    .process(content);
-
-  return {
-    title: data.title || section,
-    content: processedContent.toString(),
-  };
-}
-
 export async function generateMetadata({ params }: SectionPageProps) {
   const { section } = await params;
 
@@ -77,7 +50,7 @@ export async function generateMetadata({ params }: SectionPageProps) {
 
   // Soul section uses markdown
   if (section === 'soul') {
-    const mdData = await getMarkdownContent(section as Section);
+    const mdData = await getSectionIndex(section as Section);
     return {
       title: mdData?.title || 'Soul',
     };
@@ -100,7 +73,7 @@ export default async function SectionPage({ params }: SectionPageProps) {
 
   // Soul section renders markdown content
   if (section === 'soul') {
-    const mdData = await getMarkdownContent(section as Section);
+    const mdData = await getSectionIndex(section as Section);
 
     if (!mdData) {
       notFound();
