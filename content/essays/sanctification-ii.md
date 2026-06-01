@@ -36,7 +36,9 @@ There is an incredible series of essays being released as we speak called [Songf
 
 **There’s no currency allowed in the cathedral**.
 
-That’s it. The great secret summarised in one sentence, hidden in parenthesis. Once you know the truth of this for yourself, the casino *becomes* the cathedral. It was always the same place. There is [no difference between samsara and nirvana](https://www.kernel.community/en/learn/module-metta/relating-kernel#the-opening-empty), between there and here, ji hokkai and ri hokkai. Only the feet are two inches off the floor.
+That’s it. The great secret summarised in one sentence, hidden in parenthesis. It's not about dollars. It's not about symbols set up by other people, and blindly agreed to by the majority. It is about your process, your craft, and what it reveals to you about the workings of your mind. It is about what it reveals of who you really are.
+
+Once you know the truth of this for yourself, the casino *becomes* the cathedral. It was always the same place. There is [no difference between samsara and nirvana](https://www.kernel.community/en/learn/module-metta/relating-kernel#the-opening-empty), between there and here, ji hokkai and ri hokkai. Only the feet are two inches off the floor.
 
 > "Craft, like the cathedral, sits at the intersection of things that shouldn't intersect. Art and science. Sacred and profane. Engineering’s precision—spreadsheets, processes, feedback loops. And spiritual disciplines—detachment, patience, flinchless sitting in uncertainty. Even aspects of worship. Best way I can describe it."
 
