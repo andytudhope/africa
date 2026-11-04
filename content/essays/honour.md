@@ -4,6 +4,8 @@ description: What new worlds can we imagine with programmable money?
 image: essays/img/infinite_heart.jpg
 ---
 
+# Honour
+
 > *“The great powers of the world may have done wonders in giving the world an industrial and military look, but the great gift still has to come from Africa – giving the world a more human face.”* – Steve Biko
 
 There’s money to be made here\! Any kind of money you like, and as much of it as you need. 
