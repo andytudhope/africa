@@ -82,7 +82,7 @@ export default function TableOfContents({ content }: TableOfContentsProps) {
   }
 
   return (
-    <nav className="hidden lg:block sticky top-24 w-64 max-h-[calc(100vh-8rem)] overflow-y-auto pl-8 border-l border-gray-200 flex-shrink-0">
+    <nav className="hidden lg:block sticky top-24 w-64 max-h-[calc(100vh-8rem)] overflow-y-auto pl-8 border-l border-gray-200 shrink-0">
       <h4 className="text-sm font-semibold text-gray-900 mb-4">On this page</h4>
       <ul className="space-y-2 text-sm list-none p-0 m-0">
         {headings.map((heading) => (

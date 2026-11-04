@@ -120,7 +120,7 @@ export default async function SectionPage({ params }: SectionPageProps) {
             >
               <div className="md:flex md:gap-6 md:items-center">
                 {item.image && (
-                  <div className="md:w-1/4 mb-4 md:mb-0 flex-shrink-0 flex items-center justify-center">
+                  <div className="md:w-1/4 mb-4 md:mb-0 shrink-0 flex items-center justify-center">
                     <div className="w-full h-40 flex items-center justify-center">
                       <img
                         src={item.image}

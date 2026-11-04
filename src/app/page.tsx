@@ -1,5 +1,4 @@
 import Image from 'next/image';
-import Link from 'next/link';
 
 const books = [
   {
@@ -105,7 +104,7 @@ export default function HomePage() {
               <img
                 src={book.image}
                 alt={book.title}
-                className="w-full aspect-square object-cover rounded mb-4"
+                className="w-full aspect-square object-cover rounded-sm mb-4"
               />
               <p className="text-sm text-gray-700 px-2 mb-4">{book.description}</p>
               <div className="mt-auto pt-4">
@@ -134,7 +133,7 @@ export default function HomePage() {
               <img
                 src={work.image}
                 alt={work.title}
-                className="w-full aspect-square object-cover rounded mb-4"
+                className="w-full aspect-square object-cover rounded-sm mb-4"
               />
               <p className="text-sm text-gray-700 px-2 mb-4">{work.description}</p>
               <div className="mt-auto pt-4">
@@ -174,7 +173,7 @@ export default function HomePage() {
           <p>
             The notion that deepening awareness and expanding conscious skill leads to experiencing every moment in this world as perfect, as one spent witnessing the ever-present Face of God, has been around for a long time. The{' '}
             <a href="https://thebluebook.co.za/canto-i/xam.html" target="_blank" rel="noopener noreferrer" className="font-bold underline">
-              //Xam
+              {'//Xam'}
             </a>
             , and other tribes of the First People who wandered the Kalahari Desert and the Karoo, spoke of those harsh and beautiful landscapes as &quot;The Great Face&quot;, which they were able to read for signs critical to their sustenance and survival.{' '}
             <a href="https://unifying.thebluebook.co.za/?stackedPages=%2Fvictory" target="_blank" rel="noopener noreferrer" className="font-bold underline">

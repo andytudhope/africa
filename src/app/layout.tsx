@@ -41,6 +41,16 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        {/* Root layout loads these fonts for every App Router page. */}
+        {/* eslint-disable-next-line @next/next/no-page-custom-font */}
+        <link
+          rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Roboto:ital,wght@0,300;0,400;0,700;1,400&family=Roboto+Mono&display=swap"
+        />
+      </head>
       <body className="min-h-screen bg-white">
         <Navigation />
         <MainLayout>
