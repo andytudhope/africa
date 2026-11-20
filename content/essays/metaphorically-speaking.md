@@ -13,7 +13,7 @@ His statement changed the course of my life. I ended up doing a Masters in Engli
 
 I began studying applied mathematics and physics because I wanted to understand the universe, how it works, and how it all fits together and relates. Mathematics is the most succinct language for doing so, and physics is the study of its application in practice. I thought that at the beginning of my studies, and I still think that now.
 
-However, metaphor informs all of this, which was a great surprise to me. The word 'metaphor' comes from Greek roots: 'meta' means beyond, and 'pherein' means to carry. It is language which carries meaning beyond what it is meant to hold. The use of metaphor is a linguistic act that collapses separation: you are saying one thing IS another, that what appears to be different is actually one and the same. 
+However, metaphor informs all of this, which was a great surprise to me. The word 'metaphor' comes from Greek roots: 'meta' means beyond (or between), and 'pherein' means to carry. It is language which carries meaning beyond/between what it is meant to hold. The use of metaphor is a linguistic act that collapses separation: you are saying one thing IS another, that what appears to be different is actually one and the same. 
 
 Which is fascinating, because language is (in many ways) what establishes difference in the first place! So, metaphor is the linguistic structure that negates the language it depends on. It is, like the notion of 'self', a recursive phenomenon, [a strange loop](https://en.wikipedia.org/wiki/I_Am_a_Strange_Loop).
 
@@ -49,7 +49,7 @@ $$
 
 The greater than symbol here is not quite the clean metaphor I have been discussing so far. But, on reflection, this makes perfect sense because we are looking at an equation which (ironically) defines uncertainty. We have been talking about how each metaphor we use has limits, and now we are looking at a metaphor about limitation itself. What we can know about how energy changes is limited by what we know about the time it takes to do so. The nature of the limit is nuanced, because time is not a quantum variable like position or momentum, but that there is a limit to what we can know at any given moment is clearly stated here in physical form. And thus the quantum world begins…
 
-It is no coincidence that I have on my desk a book whose subtitle is "The book of changes and the unchanging truth" whose contents revolve around an ancient binary system of expression that the author explicitly calls "an energy language". This knowledge is neither secret nor suppressed: it has been expressed for a long time in various different ways. At base, it is very simple. It's just that we seem to have an inclination to embellish our metaphors in the hope that they can carry meaning not just beyond what they are meant to hold, but all the way to some "Universal Truth".
+It is no coincidence that I have on my desk a book whose subtitle is "The book of changes and the unchanging truth" whose contents revolve around an ancient binary system of expression that the author explicitly calls "an energy language". This knowledge is neither secret nor suppressed: it has been expressed for a long time in various different ways. At base, it is very simple. It's just that we seem to have an inclination to embellish our metaphors in the hope that they can carry meaning not just beyond/between what they are meant to hold, but all the way to some "Universal Truth".
 
 And this is where the bridge needs to take us back into the humanities, which is to say back into the study and living recognition of our limited nature as embodied beings experiencing space and time. Universal Truth of the sort we might like to impose on any other being is an asymptote: it cannot be reached. You can, at best, realise it silently within your own heart and then eternally refine your patience while relating to all the "others" you experience.
 
@@ -67,7 +67,7 @@ Sincerity is a theatrical term and it means to whole-heartedly play a role. To p
 
 In other words, sincerity is the fundamental acceptance of, or surrender to, who you are right now. So, just like metaphor is the linguistic phenomenon which depends on and negates the language from which it is constructed, sincerity both depends on and simultaneously negates the "you" you think you are. To be sincere is, at once, to realise that there is only one Life and to live your life fully, as one among infinitely many.
 
-Sincerity is the psychological structure that mirrors the linguistic structure of metaphor. Both are powerful because they put together what appears to be different, and so carry meaning (or words, or of your personality) beyond where it can ordinarily reach. 
+Sincerity is the psychological structure that mirrors the linguistic structure of metaphor. Both are powerful because they put together what appears to be different, and so carry meaning (or words, or of your personality) beyond/between where it can ordinarily reach. 
 
 Imagine my surprise when I began reading the Qur’an and came across [Surah Ikhlas](https://quran.com/al-ikhlas) (or, The Chapter of Sincerity) which is all about singularity. The first line invites you explicitly into the singularity each and every moment, in truth, presents you with. The last line is the end of metaphor. When I truly read it, I was finally and utterly content. 
 
@@ -76,6 +76,13 @@ It was a “quantum” realisation. Just as an electron is a particle and a wave
 Any such system of metaphors will always be incomplete. We've proven that, too. There are sentences, like the last line of Surah Ikhlas, that can be expressed but never proved or disproved using the axioms from which they are constructed (in this case, the rules of language).
 
 You are invited to meet directly that which has no equivalent. Metaphors are no help in the face of such an encounter. “Nothing could enter it, but the sincere act”, as Muhammad Niffari tells us. And so the academic chapter of my life closed. The bridge, after all, is not the destination.
+
+---
+
+Of course, there is a huge amount of detail this post leaves out. There are [volumes more to write about quantum mechanics, and volumes more about metaphor](https://quran.com/31/27). Instead of doing that, though, I will just point you at another series of beautiful bridges, this time between metaphor and music, for it moves me to the stillness beyond/between which all under heaven rests:
+
+<iframe class="video-frame" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL5ClmaG2tnPPFveZLH5lRrzV-Ndc3_Nli&index=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 *Wherever there is suffering, we vow to open our hearts.*  
 *Wherever there is darkness, we vow to wake up.*  

@@ -3,7 +3,8 @@
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { NAV_STRUCTURE } from '@/types';
+import { NAV_STRUCTURE, type Section } from '@/types';
+import { SECTION_DATA, getFirstSectionItem } from '@/lib/sections';
 import { Search } from './Search';
 
 export function Navigation() {
@@ -65,6 +66,8 @@ export function Navigation() {
             onClick={() => setIsMenuOpen(!isMenuOpen)}
             className="menu-button md:hidden p-2 rounded-md text-gray-700 hover:bg-gray-100"
             aria-label="Toggle menu"
+            aria-expanded={isMenuOpen}
+            aria-controls="mobile-navigation"
           >
             {isMenuOpen ? (
               <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -80,22 +83,58 @@ export function Navigation() {
 
         {/* Mobile Menu */}
         {isMenuOpen && (
-          <div className="nav-menu md:hidden border-t border-gray-200 py-4">
+          <div id="mobile-navigation" className="nav-menu md:hidden max-h-[calc(100dvh-4rem)] overflow-y-auto border-t border-gray-200 py-4">
             <div className="mb-4">
               <Search />
             </div>
             <div className="space-y-1">
               {NAV_STRUCTURE.map((item) => {
                 const isActive = pathname === item.href || pathname.startsWith(item.href + '/');
+                const sectionKey = item.href.slice(1);
+                const section = sectionKey in SECTION_DATA ? sectionKey as Section : null;
+                const sectionItems = isActive && section
+                  ? [...SECTION_DATA[section].items].sort((a, b) => a.order - b.order)
+                  : [];
+                const firstItem = section ? getFirstSectionItem(section) : undefined;
                 return (
+                  <div key={item.title}>
                   <Link
-                    key={item.title}
                     href={item.href}
+                    onClick={() => setIsMenuOpen(false)}
                     className={`block px-4 py-2 text-sm font-medium transition-colors
                       ${isActive ? 'text-primary-500' : 'text-gray-700 hover:text-primary-500'}`}
                   >
                     {item.title}
                   </Link>
+                  {sectionItems.length > 0 && (
+                    <ul className="ml-4 space-y-1 border-l border-gray-200 pl-3">
+                      {sectionItems.map((sectionItem) => {
+                        const isCurrent = pathname === sectionItem.href ||
+                          (pathname === item.href && sectionItem.href === firstItem?.href);
+                        const className = `block rounded-md px-4 py-2 text-sm transition-colors ${
+                          isCurrent
+                            ? 'text-primary-600 bg-primary-50 font-medium'
+                            : 'text-gray-600 hover:text-primary-600 hover:bg-gray-50'
+                        }`;
+
+                        return (
+                          <li key={sectionItem.href}>
+                            {'external' in sectionItem && sectionItem.external ? (
+                              <a href={sectionItem.href} target="_blank" rel="noopener noreferrer" className={className} onClick={() => setIsMenuOpen(false)}>
+                                {sectionItem.sidebarTitle}
+                                <span className="ml-1" aria-label="(opens in a new tab)">↗</span>
+                              </a>
+                            ) : (
+                              <Link href={sectionItem.href} className={className} aria-current={isCurrent ? 'page' : undefined} onClick={() => setIsMenuOpen(false)}>
+                                {sectionItem.sidebarTitle}
+                              </Link>
+                            )}
+                          </li>
+                        );
+                      })}
+                    </ul>
+                  )}
+                  </div>
                 );
               })}
             </div>
