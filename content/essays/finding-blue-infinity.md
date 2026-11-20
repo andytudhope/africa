@@ -1,7 +1,6 @@
 ---
 title: Finding Blue Infinity
 description:
-image: essays/img/de_sign.png
 ---
 
 # Finding Blue Infinity

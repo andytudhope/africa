@@ -6,7 +6,6 @@ export interface NavItem {
 export interface PostMeta {
   title: string;
   description?: string;
-  image?: string;
   slug: string;
   section: string;
 }

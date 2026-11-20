@@ -4,6 +4,8 @@ import matter from 'gray-matter';
 import { remark } from 'remark';
 import html from 'remark-html';
 import gfm from 'remark-gfm';
+import math from 'remark-math';
+import { renderMath } from './math';
 import { addHeadingIds } from './headingIds';
 import { Post, PostMeta, Section, SECTIONS } from '@/types';
 
@@ -12,6 +14,8 @@ const contentDirectory = path.join(process.cwd(), 'content');
 async function markdownToHtml(content: string): Promise<string> {
   const processedHtml = await remark()
     .use(gfm)
+    .use(math, { singleDollarTextMath: false })
+    .use(renderMath)
     .use(addHeadingIds)
     .use(html, { sanitize: false })
     .process(content);
@@ -71,7 +75,6 @@ export function getPostMeta(section: Section, slug: string): PostMeta | null {
   return {
     title: data.title || slug,
     description: data.description,
-    image: data.image,
     slug,
     section,
   };
@@ -108,7 +111,6 @@ export async function getPost(section: Section, slug: string): Promise<Post | nu
   return {
     title: data.title || slug,
     description: data.description,
-    image: data.image,
     slug,
     section,
     content: processedHtml,
@@ -149,7 +151,7 @@ export function generateSearchIndex(): { title: string; section: string; slug: s
     const sectionPath = path.join(contentDirectory, section);
     if (!fs.existsSync(sectionPath)) continue;
 
-    const files = fs.readdirSync(sectionPath).filter(f => f.endsWith('.md'));
+    const files = fs.readdirSync(sectionPath).filter(f => f.endsWith('.md') && f !== 'index.md');
 
     for (const file of files) {
       const fullPath = path.join(sectionPath, file);

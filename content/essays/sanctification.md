@@ -1,7 +1,6 @@
 ---
 title: Santification
 description: What are sanctuaries, and which monsters must we touch to claim sanctuary?
-image: essays/img/prism_ship.png
 ---
 
 # Sanctification

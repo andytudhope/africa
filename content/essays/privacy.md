@@ -1,7 +1,6 @@
 ---
 title: What is Privacy?
 description: "A wanderer's view on an issue critical to our age"
-image: /images/essays/privacy.webp
 ---
 
 # What is Privacy?

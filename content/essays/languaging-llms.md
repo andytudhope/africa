@@ -1,7 +1,6 @@
 ---
 title: How To Language Large Language Models
 description: "What does a proper understanding of the limits and power of language imply about how we address LLMs?"
-image: /images/essays/privacy.webp
 ---
 
 # How To Language Large Language Models

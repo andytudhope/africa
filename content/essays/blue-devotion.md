@@ -1,7 +1,6 @@
 ---
 title: Blue Devotion
 description: "This essay summarises the ideas behind, and the work done to achieve, The Blue Book. What is this digital artifact really inspired by, where did it come from, and what might it be used for going forward?"
-image: essays/img/blue_book.jpg
 ---
 
 # Blue Devotion
@@ -58,7 +57,7 @@ I chose love, because that is what most interests me. I’m not actually saying 
 
 ## Love
 
-I once drew a [geometrical diagram for an English Masters thesis](../../academy/img/argument_for_happiness.png), and people looked at me like I was completely crazy. So, I won’t provide a mathematical view of The Blue Book, nor will I claim that it has any of the properties relevant to a “real” proof. What I will say is that this is my most honest and sincere expression of love as I have found and experienced it in my short time here.
+I once drew a [geometrical diagram for an English Masters thesis](/images/academy/argument_for_happiness.png), and people looked at me like I was completely crazy. So, I won’t provide a mathematical view of The Blue Book, nor will I claim that it has any of the properties relevant to a “real” proof. What I will say is that this is my most honest and sincere expression of love as I have found and experienced it in my short time here.
 
 It is love as it has applied to me. In my eyes, it proves love as an independent and powerful force. But only in my eyes: I do not think it is a general proof. That you must write yourself.
 

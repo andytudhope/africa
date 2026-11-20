@@ -21,7 +21,7 @@ function generateSearchIndex(): SearchIndexItem[] {
     const sectionPath = path.join(contentDirectory, section);
     if (!fs.existsSync(sectionPath)) continue;
 
-    const files = fs.readdirSync(sectionPath).filter((f) => f.endsWith('.md'));
+    const files = fs.readdirSync(sectionPath).filter((f) => f.endsWith('.md') && f !== 'index.md');
 
     for (const file of files) {
       const fullPath = path.join(sectionPath, file);

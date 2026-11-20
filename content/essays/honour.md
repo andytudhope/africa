@@ -1,7 +1,6 @@
 ---
 title: Honour
 description: What new worlds can we imagine with programmable money?
-image: essays/img/infinite_heart.jpg
 ---
 
 # Honour

@@ -1,7 +1,6 @@
 ---
 title: Governing Gracefully
 description: Governance mechanisms that distribute funds _by virtue of how they work_ will trump those that attempt to distribute funds as an outcome of their work.
-image: essays/img/dialogue.png
 ---
 
 # Governing Gracefully

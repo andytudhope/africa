@@ -1,7 +1,6 @@
 ---
 title: Santification II
 description: The inner meaning of slavery and the joy of commitment to a process
-image: essays/img/magnifica-humilitas.png
 ---
 
 # The Inner Meaning of Slavery

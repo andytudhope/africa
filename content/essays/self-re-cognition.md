@@ -1,7 +1,6 @@
 ---
 title: Self Re-cognition
 description: What is unique about human beings? Why are we?
-image: essays/img/magic.png
 ---
 
 # Self Re-cognition

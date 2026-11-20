@@ -1,7 +1,6 @@
 ---
 title: Slow Signs
 description: "Sparked by a question about centres and wisdom, this essay listens for language with positive capability"
-image: /images/essays/simple_sincerity.png
 ---
 
 # Slow Signs
@@ -42,7 +41,7 @@ I had also read at least some of Jung by that stage, and knew of his notion of t
 
 "What if I took that transcendent function joining two poles and flipped it upside down to make a smiley face?" I asked. “Would that be an architecture of happiness?” And, all of a sudden, this entire image flooded my mind, pretty much complete, rippling out like waves in a pond. It was a moment of total contentment.
 
-A few days after that, I rewrote the final, imperfect version of the thesis in a more structured manner, nearly killed myself, and attached this image at the end. I talked about it briefly in the mini-defence we had to in front of our class, but felt deeply misunderstood. I let it be and found a way to slowly rediscover the ordinary: a process which is still happening ten years later.
+A few days after that, I rewrote the final, imperfect version of the thesis in a more structured manner, nearly killed myself, and attached this image at the end. I talked about it briefly in the mini-defence we had to do in front of our class, but felt deeply misunderstood. I let it be and found a way to slowly rediscover the ordinary: a process which is still happening ten years later.
 
 I have only pulled it out once since then, and that was to make a simplified version as the social image for [the final book in The Blue Book sequence](https://finding.thebluebook.co.za), which I have been working on since then, largely as the primary method for slowing down and rediscovering ordinary life in the face of this extraordinary event that occurred.
 
@@ -68,7 +67,7 @@ What awareness could merge such contradictory experiences? Constant awareness of
 
 What this looks like in language is communal, reciprocal, dialogic. It is a call that invites your living response. You cannot ever know the state of another’s innermost heart, but you can discern from their language how they are in that moment of encounter. The way to do this is to notice how much your shared conversation includes. It’s not just negative capability, or the ability to remain in uncertainty without grasping after “truth”. It is [positive capability](https://read.kernel.community/en/conversation/hospitality): language which (by grounding in and pointing to) the community who gives it meaning, asserts contradiction as an organizing principle which can only be *interacted* with communally.
 
-If you don’t care about noticing pronouns–not in the sense of how you are identified, but in the sense of how identities constantly shift in dialogue–then it you can find such communal language, such positive capability, by listening for the [inner music](https://www.youtube.com/watch?v=783hwpJTjlo&list=PL5ClmaG2tnPNgqWDBGCWAQxD0sYpbfPRK)[^2] of [each word](https://andytudhope.africa/essays/animals-people/#love-the-musical-nothing). Are you invited, as a participant in the mystery that is any encounter with another, to both understand what is being said and [simultaneously dance](https://www.youtube.com/watch?v=NTAwjNb2dmg)[^3] with all that can never be understood?
+If you care about noticing pronouns–not in the sense of how you are identified, but in the sense of how identities constantly shift in dialogue–then you can find such communal language, such positive capability, by listening for the [inner music](https://www.youtube.com/watch?v=783hwpJTjlo&list=PL5ClmaG2tnPNgqWDBGCWAQxD0sYpbfPRK)[^2] of [each word](https://andytudhope.africa/essays/animals-people/#love-the-musical-nothing). Are you invited, as a participant in the mystery that is any encounter with another, to both understand what is being said and [simultaneously dance](https://www.youtube.com/watch?v=NTAwjNb2dmg)[^3] with all that can never be understood?
 
 Acceptance of death, both in terms of the debt we owe to those who walk before and after us, as well as deep awareness of the fact that we may die at any moment ourselves, deepens the foldedness and complicity we feel with all humanity. In 2015, I could not state it simply, so I went a more technical route through how we construct the stories we tell ourselves, and how we navigate the inevitable betrayal of portraying others in our stories (and our inner lives, there being no inherent difference between the two).
 
@@ -152,7 +151,7 @@ Written on April 25, 2025 as a “[smiley face conjunction](https://www.skyatnig
      And genuine hospitality in our relationships depend on the freedom we have to change and restructure social forms. The guest is always strange, surprising, unexpected. The guest brings new information. Thus, [hosting in a balanced and response-able manner](https://libraryofbabel.info/bookmark.cgi?findingourhost) requires ongoing rearrangements of the familiar. Now, realise that guests need not only be other human beings, or other beings at all. Each moment is a guest to be welcomed; an invitation to another state of balance.
 
 [^2]:
-     This link goes to the YouTube playlist for The Blue Book, which began as an attempt to literally “trace’ (cf. JacquesDerrida) the influences of each of the poems, and turned into a different “view” (cf Doug Engelbart) of the same underlying message, though rendered directly through music. It is a whole new way to think about the lyricism of a text, afforded by digital, electronic media.
+     This link goes to the YouTube playlist for The Blue Book, which began as an attempt to literally “trace’ (cf. Jacques Derrida) the influences of each of the poems, and turned into a different “view” (cf Doug Engelbart) of the same underlying message, though rendered directly through music. It is a whole new way to think about the lyricism of a text, afforded by digital, electronic media.
 
 [^3]:
      This is linked because of what is said at 57:52, though I recommend listening to the whole piece.

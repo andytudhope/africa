@@ -3,41 +3,8 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 
-// Import JSON data directly - Next.js handles this at build time
-import essaysData from '../../content/data/essays.json';
-import poetryData from '../../content/data/poetry.json';
-import proseData from '../../content/data/prose.json';
-import academyData from '../../content/data/academy.json';
-import soulData from '../../content/data/soul.json';
-
-interface SectionItem {
-  order: number;
-  sidebarTitle: string;
-  title: string;
-  href: string;
-  external?: boolean;
-}
-
-interface SectionData {
-  title: string;
-  items: SectionItem[];
-}
-
-const SECTION_DATA: Record<string, SectionData> = {
-  essays: essaysData as SectionData,
-  poetry: poetryData as SectionData,
-  prose: proseData as SectionData,
-  academy: academyData as SectionData,
-  soul: soulData as SectionData,
-};
-
-const SECTION_CONFIG: Record<string, { title: string; indexTitle: string; indexHref: string }> = {
-  essays: { title: 'Essays', indexTitle: 'Introduction', indexHref: '/essays' },
-  poetry: { title: 'Poetry', indexTitle: 'Overview', indexHref: '/poetry' },
-  prose: { title: 'Prose', indexTitle: 'Overview', indexHref: '/prose' },
-  academy: { title: 'Academic Work', indexTitle: 'Overview', indexHref: '/academy' },
-  soul: { title: 'Soul', indexTitle: 'Pearls', indexHref: '/soul' },
-};
+import { SECTION_DATA, getFirstSectionItem } from '@/lib/sections';
+import type { Section } from '@/types';
 
 export function Sidebar() {
   const pathname = usePathname();
@@ -52,8 +19,9 @@ export function Sidebar() {
 
   if (!currentSectionKey) return null;
 
-  const sectionData = SECTION_DATA[currentSectionKey];
-  const sectionConfig = SECTION_CONFIG[currentSectionKey];
+  const section = currentSectionKey as Section;
+  const sectionData = SECTION_DATA[section];
+  const firstItem = getFirstSectionItem(section);
 
   // Sort items by order
   const sortedItems = [...sectionData.items].sort((a, b) => a.order - b.order);
@@ -64,25 +32,14 @@ export function Sidebar() {
       <nav className="flex-1 overflow-y-auto p-4">
         {/* Section title */}
         <h2 className="px-3 py-2 text-lg font-medium text-gray-900 mb-2">
-          {sectionConfig.title}
+          {sectionData.title}
         </h2>
 
         {/* Section items */}
         <div className="space-y-1">
-          {/* Index page link */}
-          <Link
-            href={sectionConfig.indexHref}
-            className={`block px-3 py-2 text-sm rounded-md transition-colors
-              ${pathname === sectionConfig.indexHref
-                ? 'text-primary-600 bg-primary-50 font-medium'
-                : 'text-gray-600 hover:text-primary-600 hover:bg-gray-50'}`}
-          >
-            {sectionConfig.indexTitle}
-          </Link>
-
           {/* Content items */}
           {sortedItems.map((item) => (
-            item.external ? (
+            'external' in item && item.external ? (
               <a
                 key={item.href}
                 href={item.href}
@@ -100,7 +57,7 @@ export function Sidebar() {
                 key={item.href}
                 href={item.href}
                 className={`block px-3 py-2 text-sm rounded-md transition-colors
-                  ${pathname === item.href
+                  ${(pathname === item.href || (pathname === `/${section}` && item.href === firstItem?.href))
                     ? 'text-primary-600 bg-primary-50 font-medium'
                     : 'text-gray-600 hover:text-primary-600 hover:bg-gray-50'}`}
               >
